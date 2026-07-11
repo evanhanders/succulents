@@ -9,8 +9,24 @@
   ],
   "shots": [
     { "full": "images/shelves.jpg", "thumb": "images/shelves-t.jpg", "cap": "The new shelf wall — three lit shelves in, two to grow into." },
-    { "full": "images/brain-cactus.jpg", "thumb": "images/brain-cactus-t.jpg", "cap": "The crested 'brain' Mammillaria." },
-    { "full": "images/echeveria.jpg", "thumb": "images/echeveria-t.jpg", "cap": "Echeveria blushing at the leaf tips." },
-    { "full": "images/moonstones.jpg", "thumb": "images/moonstones-t.jpg", "cap": "Pachyphytum 'Moonstones', fat and powdery." }
+    { "full": "images/desert-rose.jpg", "thumb": "images/desert-rose-t.jpg", "cap": "Desert Rose (Adenium)" },
+    { "full": "images/moonstones.jpg", "thumb": "images/moonstones-t.jpg", "cap": "Moonstones (Pachyphytum)" },
+    { "full": "images/echeveria.jpg", "thumb": "images/echeveria-t.jpg", "cap": "Echeveria, blushing at the tips" },
+    { "full": "images/zebra-haworthia.jpg", "thumb": "images/zebra-haworthia-t.jpg", "cap": "Zebra Haworthia (dish garden)" },
+    { "full": "images/coopers-haworthia.jpg", "thumb": "images/coopers-haworthia-t.jpg", "cap": "Cooper's Haworthia" },
+    { "full": "images/window-haworthia.jpg", "thumb": "images/window-haworthia-t.jpg", "cap": "Window Haworthia" },
+    { "full": "images/ox-tongue-gasteria.jpg", "thumb": "images/ox-tongue-gasteria-t.jpg", "cap": "Ox Tongue (Gasteria)" },
+    { "full": "images/crassula-deceptor.jpg", "thumb": "images/crassula-deceptor-t.jpg", "cap": "Crassula deceptor" },
+    { "full": "images/babys-necklace.jpg", "thumb": "images/babys-necklace-t.jpg", "cap": "Baby's Necklace (Crassula)" },
+    { "full": "images/string-of-buttons.jpg", "thumb": "images/string-of-buttons-t.jpg", "cap": "String of Buttons (Crassula)" },
+    { "full": "images/calico-kitten.jpg", "thumb": "images/calico-kitten-t.jpg", "cap": "Calico Kitten (Crassula)" },
+    { "full": "images/mini-crassula.jpg", "thumb": "images/mini-crassula-t.jpg", "cap": "A tiny Crassula plug" },
+    { "full": "images/devils-backbone.jpg", "thumb": "images/devils-backbone-t.jpg", "cap": "Devil's Backbone — a bit rough, on the mend" },
+    { "full": "images/propeller-plant.jpg", "thumb": "images/propeller-plant-t.jpg", "cap": "Propeller Plant (Senecio)" },
+    { "full": "images/string-of-tears.jpg", "thumb": "images/string-of-tears-t.jpg", "cap": "String of Tears (Curio)" },
+    { "full": "images/brain-cactus.jpg", "thumb": "images/brain-cactus-t.jpg", "cap": "The crested 'brain' Mammillaria" },
+    { "full": "images/blue-barrel-cactus.jpg", "thumb": "images/blue-barrel-cactus-t.jpg", "cap": "Blue barrel cactus" },
+    { "full": "images/bunny-ears-cactus.jpg", "thumb": "images/bunny-ears-cactus-t.jpg", "cap": "Bunny Ears (Opuntia)" },
+    { "full": "images/silver-squill.jpg", "thumb": "images/silver-squill-t.jpg", "cap": "Silver Squill (Ledebouria)" }
   ]
 }
