@@ -158,6 +158,7 @@ Add a form → add one CSS rule. Keep forms to 1–2 per species so cards stay c
 4. Write `species/<slug>/species.json` (schema above). Give it the next free `dex` number.
 5. Add `"<slug>"` to the `species` array in `species/manifest.json`.
 6. Reload `dex.html` — the card appears; open it to check the detail sheet.
+7. Commit and **merge to `main`** (see *Shipping* below) — that's the deploy branch.
 
 ## Workflow: adding photos to an existing species
 
@@ -182,6 +183,7 @@ entry's `images/` folder and append shot objects to its `shots` array.
 3. Write `journal/<slug>/entry.json` (schema above).
 4. **Prepend** `"<slug>"` to the `entries` array in `journal/manifest.json` (newest first).
 5. Reload `journal.html`.
+6. Commit and **merge to `main`** (see *Shipping* below) — that's the deploy branch.
 
 **Photo scope per entry.** Match the number of photos to the event: a repot or a single new
 plant → just those few shots; a "state of the collection" post → the full set (the first entry,
@@ -193,11 +195,35 @@ photos live in the entry's own `images/` folder even when the same plant already
 (with dex number) at the foot of the entry — but only slugs that already exist in the dex, or the
 chip links to a missing page. Add the plant to the dex first, then link it.
 
-## Deploy (GitHub Pages)
+## Verifying a change locally
 
-Push to the repo and enable Pages (Settings → Pages → deploy from branch, root). `.nojekyll`
-ships the files verbatim. No build. The Fraunces display font loads from Google Fonts with a
-serif fallback, so the site still reads fine offline / if fonts are blocked.
+The pages `fetch()` JSON, so `file://` won't work — always serve over HTTP:
+
+- `python3 -m http.server 8099` and open `http://localhost:8099/dex.html`, then the specific
+  page you changed. Pillow (`PIL`) is preinstalled for the image pipeline above.
+- **Page URLs:** the grid is `dex.html`; the journal feed is `journal.html`; a species'
+  standalone care sheet is **`species.html?s=<slug>`** (the query key is `s`, not `slug`).
+- Worth a headless-browser pass on a big change (new species + entry): confirm `dex.html`
+  shows the expected species count, each new `species.html?s=<slug>` renders its badges + care
+  grid, the toxicity banner flips to the warning style for toxic plants, and `journal.html`
+  loads every image with the species chips resolving to the right dex numbers.
+- Gotcha: the stock single-threaded `http.server` can reset connections when a page pulls many
+  images at once under a headless browser — use Python's `ThreadingHTTPServer` for that test.
+
+## Shipping (always merge to `main`)
+
+`main` is the deploy branch GitHub Pages serves, so **every finished change must land on `main`.**
+Do the work on a feature branch, then get it onto `main`:
+
+1. `git add -A && git commit` with a clear message.
+2. Push the branch, then merge into `main` — a fast-forward when the branch is just ahead of
+   `main` (`git checkout -B main origin/main && git merge --ff-only <branch> && git push origin main`),
+   or open a PR and merge it if `main` has diverged. Don't leave finished work stranded on a
+   feature branch.
+3. GitHub Pages redeploys from `main` automatically (`.nojekyll` ships every file verbatim; no
+   build step). The Fraunces display font loads from Google Fonts with a serif fallback, so the
+   site still reads fine offline / if fonts are blocked. Pages is served from `main`, root, with
+   Pages enabled under Settings → Pages.
 
 ## Conventions recap
 
@@ -208,4 +234,6 @@ serif fallback, so the site still reads fine offline / if fonts are blocked.
   vocabularies the filters bucket on (see the predicates in `reel.js`), or add a new bucket there.
 - One shared engine (`reel.js`) renders both the grid card and the detail hero — edit card/reel
   markup there, once.
+- Detail pages live at `species.html?s=<slug>` (query key `s`); serve over HTTP to test, never `file://`.
+- **Always merge finished work to `main`** — it's the branch GitHub Pages deploys.
 ```
