@@ -1,0 +1,46 @@
+{
+  "dex": 32,
+  "common": "Sand Dollar Cactus",
+  "botanical": "Astrophytum asterias",
+  "genus": "Astrophytum",
+  "family": "Cactaceae",
+  "aka": [
+    "Sea Urchin Cactus",
+    "Star Cactus",
+    "Super Kabuto"
+  ],
+  "class": "Cactus",
+  "forms": [
+    "Ball"
+  ],
+  "blurb": "A spineless, flattened green dome divided into neat segments and flecked all over with tufts of white — a living sand dollar. Woolly areoles run down each groove, and it pops a yellow flower from the fuzzy crown.",
+  "growth_season": "Summer",
+  "size": "Flattened dome ~2–3 in across",
+  "light": "Full sun (bright)",
+  "water": "Soak & dry (sparing)",
+  "soil": "Gritty cactus mix",
+  "hardiness": "Tender · ~35°F min (Zone 10)",
+  "toxicity": "Non-toxic",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with sun, but ease it in — the spineless body can scorch if rushed into intense summer glare. Good light keeps the flat button shape.",
+    "water": "Soak-and-dry and sparing: a thorough drink, then bone dry before the next. Keep nearly dry in winter.",
+    "soil": "A very gritty, mostly-mineral cactus mix; it's rot-prone in anything that stays damp.",
+    "temperature": "Room temperature; keep above ~35°F and dry when cool.",
+    "dormancy": "A summer grower; rest cool and dry over winter to set up spring flowers.",
+    "feeding": "A dilute low-nitrogen cactus feed once or twice in summer.",
+    "potting": "Slow-growing and happy snug; repot infrequently and keep the mix low around the body.",
+    "propagation": "Almost always from seed — it rarely offsets.",
+    "bloom": "A big yellow flower with a red-orange throat from the woolly crown, even on small plants.",
+    "troubles": "Overwatering rot is the main killer; scorch on the exposed body; mealybugs and root mealybugs.",
+    "toxicity": "Non-toxic and, being spineless, unusually safe to handle for a cactus."
+  },
+  "shots": [
+    {
+      "full": "images/sand-dollar-cactus.jpg",
+      "thumb": "images/sand-dollar-cactus-t.jpg",
+      "cap": "Sand Dollar Cactus",
+      "date": "2026-07"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "dex": 23,
+  "common": "Ladyfinger Cactus",
+  "botanical": "Mammillaria elongata",
+  "genus": "Mammillaria",
+  "family": "Cactaceae",
+  "aka": [
+    "Gold Lace Cactus",
+    "Copper King"
+  ],
+  "class": "Cactus",
+  "forms": [
+    "Columnar",
+    "Clumping"
+  ],
+  "provisional": true,
+  "blurb": "Slim upright fingers wrapped in neat radial stars of coppery-gold spine, clustering into a colony. The uncrested cousin of the Brain Cactus already on the shelf — same species, ordinary growing point.",
+  "growth_season": "Summer",
+  "size": "Clustering fingers ~2–4 in tall",
+  "light": "Full sun (bright)",
+  "water": "Soak & dry (sparing)",
+  "soil": "Gritty cactus mix",
+  "hardiness": "Tender · ~35°F min (Zone 10)",
+  "toxicity": "Non-toxic (but spiny)",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with plenty of direct sun keeps the fingers stout and well-spined; too little and they grow pale and stretch.",
+    "water": "Soak-and-dry on the sparing side — thorough drink, then bone dry before the next. Nearly dry through winter.",
+    "soil": "A gritty cactus mix that drains almost instantly.",
+    "temperature": "Room temperature; keep above ~35°F. A cool, dry winter rest sets up spring flowers.",
+    "dormancy": "A summer grower that rests cool and dry in winter — that dry rest triggers the ring of blooms.",
+    "feeding": "A dilute low-nitrogen cactus feed once or twice in summer.",
+    "potting": "Repot infrequently with folded newspaper or gloves; it clusters, so divide offsets when it fills the pot.",
+    "propagation": "Twist off a finger, let it callus, and set on dry mix to root.",
+    "bloom": "A crown-ring of small cream-to-yellow flowers after a cool dry winter.",
+    "troubles": "Overwatering rot, plus mealybugs and red spider mites.",
+    "toxicity": "Non-toxic — but the fine spines catch skin, so handle with care."
+  },
+  "shots": [
+    {
+      "full": "images/ladyfinger-cactus.jpg",
+      "thumb": "images/ladyfinger-cactus-t.jpg",
+      "cap": "Ladyfinger Cactus",
+      "date": "2026-07"
+    }
+  ]
+}

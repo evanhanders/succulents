@@ -1,6 +1,7 @@
 {
   "note": "Journal entries, NEWEST FIRST. Each slug resolves to journal/<slug>/entry.json. The journal feed and the home page read this order directly. See CLAUDE.md > Adding a journal entry.",
   "entries": [
+    "2026-07-farmers-market-haul",
     "2026-07-new-office-shelves"
   ]
 }

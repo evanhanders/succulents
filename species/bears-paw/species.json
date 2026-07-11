@@ -1,0 +1,45 @@
+{
+  "dex": 28,
+  "common": "Bear's Paw",
+  "botanical": "Cotyledon tomentosa",
+  "genus": "Cotyledon",
+  "family": "Crassulaceae",
+  "aka": [
+    "Bear Paw"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Shrub",
+    "Clumping"
+  ],
+  "blurb": "Chubby, velvety leaves tipped with a row of reddish 'claws' — unmistakably little bear paws. Fuzzy all over and irresistibly pettable; branches into a small bushy plant.",
+  "growth_season": "Winter",
+  "size": "Bushy, ~4–6 in, fuzzy toothed leaves",
+  "light": "Bright, with some direct sun",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~40°F min (Zone 10)",
+  "toxicity": "Toxic to cats & dogs",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with a little gentle sun keeps it compact and reddens the claw tips; low light makes it leggy and drops leaves.",
+    "water": "Soak-and-dry, and cautious — the fuzzy leaves hate sitting wet and drop at the slightest overwatering. Water the soil, not the leaves.",
+    "soil": "A gritty, fast-draining mix.",
+    "temperature": "Room temperature; keep above ~40°F and dry when cool.",
+    "dormancy": "Tends to a cool-season grower and slows in the heat of summer — ease off water in the hottest spell.",
+    "feeding": "A dilute feed once or twice during active growth.",
+    "potting": "Repot every couple of years; prune leggy stems to keep the bushy shape.",
+    "propagation": "Stem cuttings root well; leaves are less reliable — let cuttings callus first.",
+    "bloom": "Clusters of orange, bell-shaped flowers on tall stalks on mature plants.",
+    "troubles": "Leaf drop from overwatering or low light; mealybugs tucked in the fuzz.",
+    "toxicity": "Toxic — Cotyledon contain cardiac glycosides. Keep it away from cats, dogs, and children."
+  },
+  "shots": [
+    {
+      "full": "images/bears-paw.jpg",
+      "thumb": "images/bears-paw-t.jpg",
+      "cap": "Bear's Paw",
+      "date": "2026-07"
+    }
+  ]
+}

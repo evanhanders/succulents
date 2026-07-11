@@ -1,0 +1,47 @@
+{
+  "dex": 29,
+  "common": "African Milk Tree",
+  "botanical": "Euphorbia trigona 'Rubra'",
+  "genus": "Euphorbia",
+  "family": "Euphorbiaceae",
+  "aka": [
+    "Euphorbia trigona 'Royal Red'",
+    "Cathedral Cactus",
+    "Candelabra Cactus"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Columnar",
+    "Shrub"
+  ],
+  "blurb": "Upright three-sided green stems ridged with paired thorns and a running line of burgundy teardrop leaves — the red 'Rubra' form. Grows into a branching candelabra tower.",
+  "growth_season": "Summer",
+  "size": "Upright column ~8–10 in and climbing",
+  "light": "Bright light to full sun",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · keep above ~50°F (Zone 10–11)",
+  "toxicity": "Toxic — irritant sap, harmful to pets",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light to full sun keeps it deep red and growing straight; poor light greens it out and makes it lean toward the window.",
+    "water": "Soak-and-dry in warm growth, letting the mix dry between; keep it drier in winter. It's more forgiving than a true cactus but still rots if kept wet.",
+    "soil": "A gritty, fast-draining mix.",
+    "temperature": "Warmth-loving — keep it above ~50°F; cold-and-wet together will rot it.",
+    "dormancy": "A warm-season grower that mostly pauses in cool, low-light months.",
+    "feeding": "A dilute feed monthly through the warm growing season.",
+    "potting": "Top-heavy as it climbs — a heavier pot helps. Repot in warm weather; wear gloves.",
+    "propagation": "Stem cuttings root well — dry the milky latex and callus the cut first, and wear gloves.",
+    "bloom": "Rarely flowers indoors; grown for the coloured stems, not blooms.",
+    "troubles": "Rot from cold-and-wet; corking or scarring; mealybugs. The main hazard, though, is the sap.",
+    "toxicity": "The milky latex is a genuine irritant — toxic if eaten and nasty in eyes and on skin. Keep away from pets and children and handle with gloves."
+  },
+  "shots": [
+    {
+      "full": "images/african-milk-tree.jpg",
+      "thumb": "images/african-milk-tree-t.jpg",
+      "cap": "African Milk Tree ('Rubra')",
+      "date": "2026-07"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "dex": 33,
+  "common": "Crested Cactus",
+  "botanical": "Echinopsis hybrid f. cristata",
+  "genus": "Echinopsis",
+  "family": "Cactaceae",
+  "aka": [
+    "Trichocereus hybrid (crested)",
+    "Crested Hybrid Cactus"
+  ],
+  "class": "Cactus",
+  "forms": [
+    "Crested"
+  ],
+  "provisional": true,
+  "blurb": "A hybrid Echinopsis whose growing tip has fanned sideways into a thick, wavy green crest instead of a column — a cristate mutation. Nursery-tagged as the cross 'TPM × Althea'; a proper sculptural oddity.",
+  "growth_season": "Summer",
+  "size": "Fan-shaped crest ~4–5 in wide",
+  "light": "Full sun (bright)",
+  "water": "Soak & dry",
+  "soil": "Gritty cactus mix",
+  "hardiness": "Tender · ~35°F min (Zone 9–10)",
+  "toxicity": "Non-toxic (but spiny)",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with plenty of direct sun keeps the crest firm and well-coloured; too little and the fan grows soft and pale. Acclimate before a big jump in sun.",
+    "water": "Soak-and-dry — a good drink in warm growth, then dry before the next. Keep it dry through winter, and never let water sit in the folds of the crest.",
+    "soil": "A gritty, fast-draining cactus mix.",
+    "temperature": "Room temperature; keep above ~35°F and dry when cool.",
+    "dormancy": "A summer grower; rest it cool and dry in winter.",
+    "feeding": "A dilute low-nitrogen cactus feed once or twice in summer.",
+    "potting": "Repot infrequently; keep the mix low around the base so water drains away from the crest. Many crests are grafted — check the base.",
+    "propagation": "By cutting and rooting a section of the crest (fiddly), or grafting; it may also throw normal (reverted) columnar growth to propagate from.",
+    "bloom": "Hybrid Echinopsis are bred for big, showy, often fragrant flowers — a crest may still push the odd large bloom.",
+    "troubles": "Rot from water trapped in the crest's folds; sunburn if rushed; mealybugs and spider mites.",
+    "toxicity": "Non-toxic — but handle the spiny crest with care."
+  },
+  "shots": [
+    {
+      "full": "images/crested-cactus.jpg",
+      "thumb": "images/crested-cactus-t.jpg",
+      "cap": "Crested Cactus ('TPM × Althea')",
+      "date": "2026-07"
+    }
+  ]
+}

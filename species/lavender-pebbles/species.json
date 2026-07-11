@@ -1,0 +1,47 @@
+{
+  "dex": 26,
+  "common": "Lavender Pebbles",
+  "botanical": "Graptopetalum amethystinum",
+  "genus": "Graptopetalum",
+  "family": "Crassulaceae",
+  "aka": [
+    "Jewel-leaf Plant",
+    "Graptopetalum amethystinum"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Rosette",
+    "Clumping"
+  ],
+  "provisional": true,
+  "blurb": "Fat, rounded leaves glazed in a pearly amethyst-and-pink farina, packed into chunky rosettes on thick stems. Looks like a little pile of smooth lavender river stones.",
+  "growth_season": "Ever",
+  "size": "Chunky rosettes ~2–3 in on thick stems",
+  "light": "Bright, with some direct sun",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~30°F min (Zone 9–10)",
+  "toxicity": "Pet-safe",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with a few hours of gentle sun deepens the amethyst-pink; in low light it greens and the plump leaves space out.",
+    "water": "Soak-and-dry — a deep drink once the leaves soften slightly, then fully dry. Water the soil, never over the delicate bloom.",
+    "soil": "A gritty, fast-draining mix; those swollen leaves rot in anything soggy.",
+    "temperature": "Room temperature; keep above ~30°F and bring in before frost.",
+    "dormancy": "No strong dormancy; it slows in the darkest, coldest weeks — keep it drier then.",
+    "feeding": "A quarter-strength feed once or twice in the growing season.",
+    "potting": "Repot every couple of years; handle by the stem to protect the farina.",
+    "propagation": "Easy from plump leaves and stem cuttings laid on dry mix.",
+    "bloom": "Star-shaped orange-and-red flowers on short stalks in spring.",
+    "troubles": "Overwatering (translucent, mushy leaves) is the main risk; mealybugs between the tight leaves.",
+    "toxicity": "Non-toxic and safe around pets."
+  },
+  "shots": [
+    {
+      "full": "images/lavender-pebbles.jpg",
+      "thumb": "images/lavender-pebbles-t.jpg",
+      "cap": "Lavender Pebbles",
+      "date": "2026-07"
+    }
+  ]
+}

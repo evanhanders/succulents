@@ -1,0 +1,47 @@
+{
+  "dex": 20,
+  "common": "Aeonium 'Kiwi'",
+  "botanical": "Aeonium haworthii 'Kiwi'",
+  "genus": "Aeonium",
+  "family": "Crassulaceae",
+  "aka": [
+    "Aeonium 'Dream Color'",
+    "Kiwi Aeonium"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Rosette",
+    "Shrub"
+  ],
+  "provisional": true,
+  "blurb": "Small open rosettes with pale butter-green centres that wash out to cream and flush rose-red along the finely toothed, hair-fringed edges. Branches up into a little shrub of colour.",
+  "growth_season": "Winter",
+  "size": "Rosettes ~2–3 in, branching to a small shrub",
+  "light": "Bright indirect",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~30°F min (Zone 9–10)",
+  "toxicity": "Pet-safe",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with some gentle sun brings out the yellow-and-rose colour; harsh mid-summer glare scorches the thin leaves, and deep shade turns it plain green and leggy.",
+    "water": "Soak-and-dry while it's actively growing in the cooler half of the year; keep it much drier through its summer rest.",
+    "soil": "A gritty, fast-draining mix — those fibrous roots dislike staying wet.",
+    "temperature": "Comfortable at room temperature; keep it above ~30°F and out of frost.",
+    "dormancy": "A winter grower: it does most of its growing in the cool, bright months and rests (often shedding lower leaves and closing its rosettes) in summer heat — ease right off water then.",
+    "feeding": "A dilute feed once or twice during the cool growing season.",
+    "potting": "Repot in autumn as growth restarts; it branches readily, so give it room to bush out.",
+    "propagation": "Stem-tip cuttings root easily — let the cut callus a day or two, then set in dry mix.",
+    "bloom": "Rosettes are monocarpic — an individual rosette that flowers then dies, but the branching plant carries on from its other heads.",
+    "troubles": "Summer overwatering rot, scorch in harsh sun, and legginess in low light; watch for aphids on new growth.",
+    "toxicity": "Non-toxic and considered safe around cats and dogs."
+  },
+  "shots": [
+    {
+      "full": "images/aeonium-kiwi.jpg",
+      "thumb": "images/aeonium-kiwi-t.jpg",
+      "cap": "Aeonium 'Kiwi'",
+      "date": "2026-07"
+    }
+  ]
+}

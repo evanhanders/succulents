@@ -1,0 +1,45 @@
+{
+  "dex": 21,
+  "common": "Ghost Plant",
+  "botanical": "Graptopetalum paraguayense",
+  "genus": "Graptopetalum",
+  "family": "Crassulaceae",
+  "aka": [
+    "Mother-of-Pearl Plant"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Rosette",
+    "Trailing"
+  ],
+  "blurb": "Loose rosettes of pointed, powder-coated leaves that shift between dove-grey, lavender-pink and pale blue depending on the light. Sprawls on lengthening stems and roots from any leaf it drops — nearly indestructible.",
+  "growth_season": "Ever",
+  "size": "Rosettes ~3–4 in on lengthening, trailing stems",
+  "light": "Bright, with some direct sun",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · to ~20°F (Zone 9)",
+  "toxicity": "Pet-safe",
+  "acquired": "2026-07",
+  "care": {
+    "light": "The brighter the light, the tighter the rosettes and the stronger the pearly pink-and-blue tones; in shade it greens up, stretches, and sprawls.",
+    "water": "Classic soak-and-dry — a deep drink once the leaves soften slightly and the mix is dry. Water the soil, not over the farina.",
+    "soil": "A gritty, fast-draining mix.",
+    "temperature": "Happy at room temperature and surprisingly cold-tolerant for a short spell, but keep it out of hard frost.",
+    "dormancy": "An easy-going grower with no strong dormancy; it just slows in the darkest, coldest weeks — keep it drier then.",
+    "feeding": "A dilute feed once or twice a year is plenty.",
+    "potting": "Repot when it outgrows the pot or gets top-heavy; leggy stems can be beheaded and re-rooted to restart it compact.",
+    "propagation": "Almost too easy — fallen leaves and beheaded rosettes root readily on dry mix.",
+    "bloom": "Star-shaped white-and-red-speckled flowers on arching stalks in spring.",
+    "troubles": "Overwatering rot is about the only way to kill it; mealybugs occasionally hide in the rosette.",
+    "toxicity": "Non-toxic and safe around pets."
+  },
+  "shots": [
+    {
+      "full": "images/ghost-plant.jpg",
+      "thumb": "images/ghost-plant-t.jpg",
+      "cap": "Ghost Plant",
+      "date": "2026-07"
+    }
+  ]
+}

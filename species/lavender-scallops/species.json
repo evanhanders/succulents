@@ -1,0 +1,47 @@
+{
+  "dex": 31,
+  "common": "Lavender Scallops",
+  "botanical": "Kalanchoe fedtschenkoi",
+  "genus": "Kalanchoe",
+  "family": "Crassulaceae",
+  "aka": [
+    "Kalanchoe fedtschenkoi 'Variegata'",
+    "Variegated Lavender Scallops",
+    "South American Air Plant"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Trailing",
+    "Shrub"
+  ],
+  "blurb": "Blue-green scalloped leaves rimmed in rose-purple on sprawling, branching stems, colouring up hardest at the edges in bright light. Sprouts tiny plantlets right along the leaf notches.",
+  "growth_season": "Summer",
+  "size": "Sprawling, branching stems ~6–10 in",
+  "light": "Bright, with some direct sun",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~40°F min (Zone 9–10)",
+  "toxicity": "Toxic to cats & dogs",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with some direct sun brings out the purple rims and keeps growth compact; in shade it greens and stretches.",
+    "water": "Soak-and-dry; it stores water in the leaves, so let the mix dry fully between drinks. Drier in winter.",
+    "soil": "A gritty, fast-draining mix.",
+    "temperature": "Room temperature; keep above ~40°F and out of frost.",
+    "dormancy": "A warm-season grower that slows in winter — keep it bright and on the dry side then.",
+    "feeding": "A dilute feed once or twice through spring and summer.",
+    "potting": "Repot as it sprawls; pinch back and re-root cuttings to keep it bushy.",
+    "propagation": "Very easy — stem cuttings, and the little leaf-margin plantlets that root wherever they land.",
+    "bloom": "Nodding bell-shaped orange-red flowers on tall stalks in winter to spring.",
+    "troubles": "Overwatering rot and legginess in low light; mealybugs and aphids on new growth.",
+    "toxicity": "Toxic — Kalanchoe contain cardiac glycosides that are dangerous to cats and dogs. Keep it out of reach."
+  },
+  "shots": [
+    {
+      "full": "images/lavender-scallops.jpg",
+      "thumb": "images/lavender-scallops-t.jpg",
+      "cap": "Lavender Scallops",
+      "date": "2026-07"
+    }
+  ]
+}

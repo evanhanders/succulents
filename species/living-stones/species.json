@@ -1,0 +1,48 @@
+{
+  "dex": 24,
+  "common": "Living Stones",
+  "botanical": "Lithops sp.",
+  "genus": "Lithops",
+  "family": "Aizoaceae",
+  "aka": [
+    "Lithops",
+    "Pebble Plant",
+    "Flowering Stones"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Ball",
+    "Clumping"
+  ],
+  "provisional": true,
+  "blurb": "Two fat, fused leaves per body mimicking a split pebble, each with its own patterned window on top. A pair here in different markings — and once a year they split open to swap their whole skin for a fresh one.",
+  "growth_season": "Winter",
+  "size": "Pebble bodies ~0.5–1 in across",
+  "light": "Full sun (bright)",
+  "water": "Very sparing",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~40°F min (Zone 10)",
+  "toxicity": "Pet-safe",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with several hours of direct sun keeps them squat and patterned; too little and the bodies stretch tall and pale and lose their stone shape.",
+    "water": "The whole game is timing. Water lightly in autumn and spring growth; keep them completely dry through summer dormancy and while the old leaves shrivel and the new pair emerges in winter. When in doubt, don't water.",
+    "soil": "A very gritty, mostly-mineral mix in a deeper pot for the taproot.",
+    "temperature": "Room temperature; keep above ~40°F and bone dry when cool.",
+    "dormancy": "Reverse of most succulents — they grow in the cool months and rest in summer heat. Never water during the winter leaf-swap: the new body lives off the old one.",
+    "feeding": "Essentially none; a very dilute low-nitrogen feed at most, once in autumn.",
+    "potting": "They resent disturbance and go years between repots; a deep pot suits the taproot.",
+    "propagation": "From seed (slow), or by dividing established clumps.",
+    "bloom": "A daisy-like white or yellow flower squeezes out from the central slit in autumn.",
+    "troubles": "Overwatering — especially out of season — is fatal; watch for a body that goes translucent and mushy.",
+    "toxicity": "Non-toxic and safe around pets."
+  },
+  "shots": [
+    {
+      "full": "images/living-stones.jpg",
+      "thumb": "images/living-stones-t.jpg",
+      "cap": "Living Stones",
+      "date": "2026-07"
+    }
+  ]
+}

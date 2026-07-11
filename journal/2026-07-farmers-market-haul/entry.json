@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-11",
+  "title": "Plant haul from the farmers market",
+  "tags": ["plant haul", "new plants", "farmers market"],
+  "species": [
+    "aeonium-kiwi",
+    "zebra-haworthia",
+    "ghost-plant",
+    "golden-sedum",
+    "ladyfinger-cactus",
+    "living-stones",
+    "cobweb-houseleek",
+    "lavender-pebbles",
+    "prickly-pear",
+    "bears-paw",
+    "african-milk-tree",
+    "balloon-cactus",
+    "lavender-scallops",
+    "sand-dollar-cactus",
+    "crested-cactus"
+  ],
+  "body": [
+    "Plant haul!! Since we got the shelves up I've been itching to go to Rocky Mountain Fresh's booth at the Boulder Farmers Market. They have a great collection of succulents and cactuses and I added a bunch to the collection today 😁.",
+    "These basically all fit on the same two empty shelves I had left over from yesterday, so there's still plenty of room to grow the collection. Very excited!",
+    "A few standouts: a spineless sand-dollar Astrophytum, a fan-crested hybrid cactus tagged 'TPM × Althea', a pair of living stones in different markings, my first fuzzy bear's paw, and a red African milk tree. Every plant below has its own dex entry now — tap through to the care sheets."
+  ],
+  "shots": [
+    { "full": "images/haul.jpg", "thumb": "images/haul-t.jpg", "cap": "The whole haul, fresh off the market table." },
+    { "full": "images/aeonium-kiwi.jpg", "thumb": "images/aeonium-kiwi-t.jpg", "cap": "Aeonium 'Kiwi' — cream centres, rose-red edges." },
+    { "full": "images/zebra-haworthia.jpg", "thumb": "images/zebra-haworthia-t.jpg", "cap": "Another Zebra Haworthia to join the dish garden." },
+    { "full": "images/ghost-plant.jpg", "thumb": "images/ghost-plant-t.jpg", "cap": "Ghost Plant (Graptopetalum) — pearly grey-pink." },
+    { "full": "images/golden-sedum.jpg", "thumb": "images/golden-sedum-t.jpg", "cap": "Golden Sedum, glowing amber-orange." },
+    { "full": "images/ladyfinger-cactus.jpg", "thumb": "images/ladyfinger-cactus-t.jpg", "cap": "Ladyfinger Cactus — the uncrested cousin of my brain cactus." },
+    { "full": "images/living-stones.jpg", "thumb": "images/living-stones-t.jpg", "cap": "Living Stones (Lithops) — two patterns in one pot." },
+    { "full": "images/cobweb-houseleek.jpg", "thumb": "images/cobweb-houseleek-t.jpg", "cap": "Cobweb Houseleek, laced in white webbing." },
+    { "full": "images/lavender-pebbles.jpg", "thumb": "images/lavender-pebbles-t.jpg", "cap": "Lavender Pebbles (Graptopetalum amethystinum)." },
+    { "full": "images/prickly-pear.jpg", "thumb": "images/prickly-pear-t.jpg", "cap": "A little Prickly Pear budding new pads." },
+    { "full": "images/bears-paw.jpg", "thumb": "images/bears-paw-t.jpg", "cap": "Bear's Paw — fuzzy leaves with reddish claw tips." },
+    { "full": "images/african-milk-tree.jpg", "thumb": "images/african-milk-tree-t.jpg", "cap": "African Milk Tree, the red 'Rubra' form." },
+    { "full": "images/balloon-cactus.jpg", "thumb": "images/balloon-cactus-t.jpg", "cap": "Balloon Cactus — blue-green ball with a woolly crown." },
+    { "full": "images/lavender-scallops.jpg", "thumb": "images/lavender-scallops-t.jpg", "cap": "Lavender Scallops (Kalanchoe), purple-rimmed leaves." },
+    { "full": "images/sand-dollar-cactus.jpg", "thumb": "images/sand-dollar-cactus-t.jpg", "cap": "Sand Dollar Cactus (Astrophytum asterias)." },
+    { "full": "images/crested-cactus.jpg", "thumb": "images/crested-cactus-t.jpg", "cap": "The fan-crested hybrid, tagged 'TPM × Althea'." }
+  ]
+}

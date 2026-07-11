@@ -1,0 +1,46 @@
+{
+  "dex": 25,
+  "common": "Cobweb Houseleek",
+  "botanical": "Sempervivum arachnoideum",
+  "genus": "Sempervivum",
+  "family": "Crassulaceae",
+  "aka": [
+    "Cobweb Hens-and-Chicks",
+    "Spider Web Houseleek"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Rosette",
+    "Clumping"
+  ],
+  "blurb": "Tight green rosettes laced tip-to-tip with fine white webbing, like a dusting of cobweb spun across the top. Properly cold-hardy — this is one that could actually live outdoors through a real winter.",
+  "growth_season": "Summer",
+  "size": "Rosettes ~1–2 in, offsetting into a mat",
+  "light": "Full sun to bright",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Cold-hardy to Zone 5",
+  "toxicity": "Pet-safe",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Full sun to very bright light keeps the rosettes tight and the webbing dense; in shade they open up and the cobweb thins.",
+    "water": "Soak-and-dry in growth; it's a mountain plant used to sharp drainage and dry spells. Keep water out of the woolly crown.",
+    "soil": "A gritty, fast-draining mineral mix.",
+    "temperature": "Genuinely hardy — shrugs off frost and can overwinter outdoors in cold zones; its enemy is heat plus wet, not cold.",
+    "dormancy": "Grows spring through summer and rests over winter; it just needs to stay dry when cold.",
+    "feeding": "Little to none — lean conditions suit it.",
+    "potting": "Shallow pots are fine; it spreads into a mat of offsets you can divide any time.",
+    "propagation": "Pull the 'chick' offsets, which are usually already rooting, and pot them up.",
+    "bloom": "The mother rosette is monocarpic — it sends up a starry pink flower spike, then dies, replaced by its ring of chicks.",
+    "troubles": "Rot from heat-and-wet or water sitting in the crown; otherwise very tough.",
+    "toxicity": "Non-toxic and safe around cats and dogs."
+  },
+  "shots": [
+    {
+      "full": "images/cobweb-houseleek.jpg",
+      "thumb": "images/cobweb-houseleek-t.jpg",
+      "cap": "Cobweb Houseleek",
+      "date": "2026-07"
+    }
+  ]
+}

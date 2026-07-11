@@ -1,0 +1,47 @@
+{
+  "dex": 22,
+  "common": "Golden Sedum",
+  "botanical": "Sedum adolphii",
+  "genus": "Sedum",
+  "family": "Crassulaceae",
+  "aka": [
+    "Sedum adolphii 'Golden Glow'",
+    "Golden Glow Sedum"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Rosette",
+    "Clumping"
+  ],
+  "provisional": true,
+  "blurb": "Plump, boat-shaped leaves in loose rosettes that warm to gold and amber-orange with sunset-red tips in strong sun. Branches and clumps freely into a glowing little mound.",
+  "growth_season": "Summer",
+  "size": "Rosettes ~2–3 in on branching stems",
+  "light": "Full sun (acclimated)",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~30°F min (Zone 9–10)",
+  "toxicity": "Pet-safe",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Lots of light — including direct sun — is what turns it gold and orange; in shade it reverts to plain green and the rosettes open and stretch. Acclimate before any big jump in sun.",
+    "water": "Soak-and-dry; the fleshy leaves store plenty, so wait until they soften slightly and the soil is bone dry.",
+    "soil": "A gritty, fast-draining mix.",
+    "temperature": "Room temperature; keep above ~30°F and bring in before frost.",
+    "dormancy": "A warm-season grower that slows in deep winter — keep it bright and drier then.",
+    "feeding": "A dilute feed once or twice through spring and summer.",
+    "potting": "Repot every couple of years; pinch back leggy stems to keep it full.",
+    "propagation": "Very easy from dropped leaves and stem cuttings laid on dry mix.",
+    "bloom": "Small yellow star flowers in clusters in the warmer months.",
+    "troubles": "Overwatering rot and etiolation (stretching, colour loss) in low light; mealybugs.",
+    "toxicity": "Non-toxic and safe around cats and dogs."
+  },
+  "shots": [
+    {
+      "full": "images/golden-sedum.jpg",
+      "thumb": "images/golden-sedum-t.jpg",
+      "cap": "Golden Sedum",
+      "date": "2026-07"
+    }
+  ]
+}

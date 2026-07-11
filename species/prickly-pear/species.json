@@ -1,0 +1,46 @@
+{
+  "dex": 27,
+  "common": "Prickly Pear",
+  "botanical": "Opuntia sp.",
+  "genus": "Opuntia",
+  "family": "Cactaceae",
+  "aka": [
+    "Paddle Cactus"
+  ],
+  "class": "Cactus",
+  "forms": [
+    "Paddle",
+    "Clumping"
+  ],
+  "provisional": true,
+  "blurb": "Small rounded blue-green pads budding fresh pads off their edges, studded with tufts of fine glochids rather than long spines. Species still to pin down — a classic little prickly pear in the making.",
+  "growth_season": "Summer",
+  "size": "Branching pads ~2–3 in",
+  "light": "Full sun",
+  "water": "Soak & dry",
+  "soil": "Gritty cactus mix",
+  "hardiness": "Tender · ~35°F min (Zone 10)",
+  "toxicity": "Non-toxic, but glochids irritate skin",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Full sun keeps the pads plump and compact and stops new growth from stretching thin.",
+    "water": "Soak-and-dry — a bit more while it's actively pushing pads in summer, then dry through winter.",
+    "soil": "A gritty, fast-draining cactus mix.",
+    "temperature": "Warm in summer; keep above ~35°F and dry when cold (this one's ID is unconfirmed, so I'm treating it as tender).",
+    "dormancy": "A summer grower; rest cool and dry in winter.",
+    "feeding": "A dilute cactus feed once or twice in summer.",
+    "potting": "Repot with tongs or folded newspaper — never bare hands. Pads snap off easily as new plants.",
+    "propagation": "Lay a detached pad on dry mix to callus, then pot; it roots readily.",
+    "bloom": "Cup-shaped flowers along the pad rims on mature plants in strong light.",
+    "troubles": "The glochids are the main hazard to you; the plant itself mainly fears overwatering rot and cochineal scale.",
+    "toxicity": "Non-toxic, but the tiny barbed glochids lodge in skin and are miserable to remove — site it where pets and people won't brush against it."
+  },
+  "shots": [
+    {
+      "full": "images/prickly-pear.jpg",
+      "thumb": "images/prickly-pear-t.jpg",
+      "cap": "Prickly Pear",
+      "date": "2026-07"
+    }
+  ]
+}

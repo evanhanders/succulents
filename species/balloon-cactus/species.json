@@ -1,0 +1,47 @@
+{
+  "dex": 30,
+  "common": "Balloon Cactus",
+  "botanical": "Parodia magnifica",
+  "genus": "Parodia",
+  "family": "Cactaceae",
+  "aka": [
+    "Notocactus magnificus",
+    "Ball Cactus",
+    "Blue Ball Cactus"
+  ],
+  "class": "Cactus",
+  "forms": [
+    "Ball"
+  ],
+  "provisional": true,
+  "blurb": "A fat blue-green ball with crisp raised ribs edged in soft golden bristles and a woolly yellow crown. Clusters with age into a clump of blue balloons. (Genus best-guess for now.)",
+  "growth_season": "Summer",
+  "size": "Ribbed ball ~3–4 in across",
+  "light": "Full sun (bright)",
+  "water": "Soak & dry",
+  "soil": "Gritty cactus mix",
+  "hardiness": "Tender · ~35°F min (Zone 9–10)",
+  "toxicity": "Non-toxic (but spiny)",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with plenty of direct sun keeps the blue colour and golden bristles strong; acclimate before a big jump in sun to avoid scorch.",
+    "water": "Soak-and-dry: a deep drink in warm growth, then dry before the next. Keep it dry through winter.",
+    "soil": "A gritty, fast-draining cactus mix.",
+    "temperature": "Room temperature and warm in summer; keep above ~35°F and dry when cool.",
+    "dormancy": "A summer grower; rest it cool and dry through winter to set up flowers.",
+    "feeding": "A dilute low-nitrogen cactus feed once or twice in summer.",
+    "potting": "Slow-growing; repot infrequently, handling with folded newspaper or thick gloves.",
+    "propagation": "From seed, or by removing offsets once it starts to cluster.",
+    "bloom": "Big satiny yellow flowers from the woolly crown on mature plants — the 'magnifica' payoff.",
+    "troubles": "Rot from overwatering or cold-and-wet; sunburn if rushed into strong sun; mealybugs.",
+    "toxicity": "Non-toxic — but the spines mean careful handling."
+  },
+  "shots": [
+    {
+      "full": "images/balloon-cactus.jpg",
+      "thumb": "images/balloon-cactus-t.jpg",
+      "cap": "Balloon Cactus",
+      "date": "2026-07"
+    }
+  ]
+}
