@@ -1,0 +1,6 @@
+{
+  "note": "Generated list of Pokedex species records. Each slug resolves to species/<slug>/species.json. Order here does not matter — the dex sorts by entry number / genus. See CLAUDE.md > Adding a species.",
+  "species": [
+    "zebra-haworthia"
+  ]
+}

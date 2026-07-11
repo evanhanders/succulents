@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Journal · Evan's Succulents</title>
+<meta name="description" content="A running journal of my succulent & cactus collection — new plants, repottings, pups, and blooms.">
+<meta name="theme-color" content="#f3ecdd">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%234f7a43'/%3E%3Cpath d='M12 19v-6' stroke='%23fcf8ee' stroke-width='1.4' stroke-linecap='round'/%3E%3Cellipse cx='12' cy='9' rx='2' ry='5' fill='%23fcf8ee'/%3E%3Cellipse cx='8.5' cy='11' rx='1.6' ry='4' fill='%23dfeecf' transform='rotate(-30 8.5 11)'/%3E%3Cellipse cx='15.5' cy='11' rx='1.6' ry='4' fill='%23dfeecf' transform='rotate(30 15.5 11)'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="topbar"><div class="topbar-in">
+  <a class="brand" href="index.html"><svg class="glyph" viewBox="0 0 24 24"><rect width="24" height="24" rx="5" fill="#4f7a43"/><path d="M12 19v-6" stroke="#fcf8ee" stroke-width="1.4" stroke-linecap="round"/><ellipse cx="12" cy="9" rx="2" ry="5" fill="#fcf8ee"/><ellipse cx="8.5" cy="11" rx="1.6" ry="4" fill="#dfeecf" transform="rotate(-30 8.5 11)"/><ellipse cx="15.5" cy="11" rx="1.6" ry="4" fill="#dfeecf" transform="rotate(30 15.5 11)"/></svg><b>Evan's Succulents</b></a>
+  <nav class="navlinks">
+    <a href="journal.html">Journal</a>
+    <a href="dex.html">Pokédex</a>
+    <button class="themebtn" type="button"></button>
+  </nav>
+</div></div>
+
+<div class="wrap">
+<header class="masthead">
+  <div class="kicker">The Collection Journal</div>
+  <h1 class="display">Journal</h1>
+  <p class="sub">New arrivals, repottings, pups pulled and potted, and the occasional bloom — logged as they happen, newest first.</p>
+</header>
+
+<div id="feed" class="feed">
+  <article class="entry"><div class="entry-head"><div class="skel"><div class="ln s"></div><div class="ln t"></div><div class="ln w"></div><div class="ln w"></div></div></div></article>
+</div>
+
+<footer>
+  A running log of a personal collection · photos are my own.
+</footer>
+</div>
+
+<div class="lbox" id="lbox" role="dialog" aria-modal="true" aria-label="Photo viewer" aria-hidden="true">
+  <div class="lb-cap"><div class="lb-capmain"><span id="lbCount" class="lb-count"></span><span id="lbCapText"></span></div><a id="lbSrc" href="#">Source ↗</a></div>
+  <button class="rbtn lb-close" id="lbClose" aria-label="Close" title="Close">×</button>
+  <div class="lb-stage" id="lbStage"><img id="lbImg" alt="" draggable="false"></div>
+  <button class="rbtn lb-nav lb-prev" id="lbPrev" aria-label="Previous photo" title="Previous" hidden>‹</button>
+  <button class="rbtn lb-nav lb-next" id="lbNext" aria-label="Next photo" title="Next" hidden>›</button>
+  <div class="lb-hint" id="lbHint">Pinch, scroll, or double-tap to zoom · drag to pan</div>
+  <div class="lb-zoomctl">
+    <button class="rbtn" id="lbOut" aria-label="Zoom out" title="Zoom out">−</button>
+    <button class="rbtn" id="lbReset" aria-label="Fit to screen" title="Fit to screen">⤢</button>
+    <button class="rbtn" id="lbIn" aria-label="Zoom in" title="Zoom in">+</button>
+  </div>
+</div>
+
+<script src="reel.js"></script>
+<script src="site.js"></script>
+<script src="journal.js"></script>
+</body>
+</html>

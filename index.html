@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Evan's Succulents — Journal &amp; Pokédex</title>
+<meta name="description" content="A home for my succulent & cactus collection: a photo journal of what's happening, and a Pokédex-style encyclopedia of how to care for each species.">
+<meta name="theme-color" content="#f3ecdd">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%234f7a43'/%3E%3Cpath d='M12 19v-6' stroke='%23fcf8ee' stroke-width='1.4' stroke-linecap='round'/%3E%3Cellipse cx='12' cy='9' rx='2' ry='5' fill='%23fcf8ee'/%3E%3Cellipse cx='8.5' cy='11' rx='1.6' ry='4' fill='%23dfeecf' transform='rotate(-30 8.5 11)'/%3E%3Cellipse cx='15.5' cy='11' rx='1.6' ry='4' fill='%23dfeecf' transform='rotate(30 15.5 11)'/%3E%3C/svg%3E">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Evan's Succulents — Journal & Pokédex">
+<meta property="og:description" content="A photo journal and a Pokédex-style care encyclopedia of my succulent & cactus collection.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="topbar"><div class="topbar-in">
+  <a class="brand" href="index.html"><svg class="glyph" viewBox="0 0 24 24"><rect width="24" height="24" rx="5" fill="#4f7a43"/><path d="M12 19v-6" stroke="#fcf8ee" stroke-width="1.4" stroke-linecap="round"/><ellipse cx="12" cy="9" rx="2" ry="5" fill="#fcf8ee"/><ellipse cx="8.5" cy="11" rx="1.6" ry="4" fill="#dfeecf" transform="rotate(-30 8.5 11)"/><ellipse cx="15.5" cy="11" rx="1.6" ry="4" fill="#dfeecf" transform="rotate(30 15.5 11)"/></svg><b>Evan's Succulents</b></a>
+  <nav class="navlinks">
+    <a href="journal.html">Journal</a>
+    <a href="dex.html">Pokédex</a>
+    <button class="themebtn" type="button"></button>
+  </nav>
+</div></div>
+
+<div class="wrap">
+<header class="hero">
+  <div class="lensrow"><span class="lens"></span><span class="led r"></span><span class="led y"></span><span class="led g"></span></div>
+  <div class="kicker">A Living Collection</div>
+  <h1 class="display">Evan's Succulents &amp; Cacti</h1>
+  <p class="sub">Two ways in: a photo <b>journal</b> of what's happening on the shelf, and a Pokédex-style <b>encyclopedia</b> of how I care for every species in the collection.</p>
+
+  <div class="portals">
+    <a class="portal" href="journal.html">
+      <svg class="picn" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h13l3 3v13H4z"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>
+      <h2>The Journal</h2>
+      <p>Dated entries with photos and a few words — new plants, repottings, pups, and blooms as they happen.</p>
+      <span class="go">Read the journal →</span>
+    </a>
+    <a class="portal dex" href="dex.html">
+      <svg class="picn" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="3"/><path d="M3 4h18v16H3zM3 12h18"/><circle cx="18" cy="16" r="1.4"/></svg>
+      <h2>The Pokédex</h2>
+      <p>Every species catalogued with an entry number, type badges, and how to light, water, soil, and overwinter it.</p>
+      <span class="go">Open the dex →</span>
+    </a>
+  </div>
+</header>
+
+<section id="latest-wrap" hidden>
+  <div class="section-head"><h2>Latest from the journal</h2><a href="journal.html">All entries →</a><span class="rule" hidden></span></div>
+  <div id="latest" class="feed"></div>
+</section>
+
+<section id="featured-wrap" hidden>
+  <div class="section-head"><h2>From the dex</h2><a href="dex.html">Browse all →</a></div>
+  <div id="featured" class="grid"></div>
+</section>
+
+<footer>
+  Built with care for a personal collection · photos are my own.
+</footer>
+</div>
+
+<div class="lbox" id="lbox" role="dialog" aria-modal="true" aria-label="Photo viewer" aria-hidden="true">
+  <div class="lb-cap"><div class="lb-capmain"><span id="lbCount" class="lb-count"></span><span id="lbCapText"></span></div><a id="lbSrc" href="#">Source ↗</a></div>
+  <button class="rbtn lb-close" id="lbClose" aria-label="Close" title="Close">×</button>
+  <div class="lb-stage" id="lbStage"><img id="lbImg" alt="" draggable="false"></div>
+  <button class="rbtn lb-nav lb-prev" id="lbPrev" aria-label="Previous photo" title="Previous" hidden>‹</button>
+  <button class="rbtn lb-nav lb-next" id="lbNext" aria-label="Next photo" title="Next" hidden>›</button>
+  <div class="lb-hint" id="lbHint">Pinch, scroll, or double-tap to zoom · drag to pan</div>
+  <div class="lb-zoomctl">
+    <button class="rbtn" id="lbOut" aria-label="Zoom out" title="Zoom out">−</button>
+    <button class="rbtn" id="lbReset" aria-label="Fit to screen" title="Fit to screen">⤢</button>
+    <button class="rbtn" id="lbIn" aria-label="Zoom in" title="Zoom in">+</button>
+  </div>
+</div>
+
+<script src="reel.js"></script>
+<script src="site.js"></script>
+<script src="home.js"></script>
+</body>
+</html>
