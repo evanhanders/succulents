@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-11",
+  "title": "New office, new shelves",
+  "tags": ["new setup", "shelves", "grow lights"],
+  "species": [],
+  "body": [
+    "Finally got the new succulent shelves set up in my new office! Here's how they look and the current size of the collection — we still have two whole new shelves to grow the collection out. I'm excited :).",
+    "Looking forward to these guys actually getting enough light and hopefully soon getting to repot some of them out of their original nursery pots. And I might get to go succulent shopping this weekend!"
+  ],
+  "shots": [
+    { "full": "images/shelves.jpg", "thumb": "images/shelves-t.jpg", "cap": "The new shelf wall — three lit shelves in, two to grow into." },
+    { "full": "images/brain-cactus.jpg", "thumb": "images/brain-cactus-t.jpg", "cap": "The crested 'brain' Mammillaria." },
+    { "full": "images/echeveria.jpg", "thumb": "images/echeveria-t.jpg", "cap": "Echeveria blushing at the leaf tips." },
+    { "full": "images/moonstones.jpg", "thumb": "images/moonstones-t.jpg", "cap": "Pachyphytum 'Moonstones', fat and powdery." }
+  ]
+}
