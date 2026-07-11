@@ -1,0 +1,42 @@
+{
+  "dex": 17,
+  "common": "Blue Barrel Cactus",
+  "botanical": "Ferocactus sp.",
+  "genus": "Ferocactus",
+  "family": "Cactaceae",
+  "class": "Cactus",
+  "forms": [
+    "Barrel"
+  ],
+  "provisional": true,
+  "blurb": "A smooth blue-green ribbed barrel with widely spaced clusters of amber, slightly curved spines. Slow and sculptural — a proper little sun-baked keg. (Genus best-guess for now.)",
+  "growth_season": "Summer",
+  "size": "Ribbed globe ~3–4 in across",
+  "light": "Full sun",
+  "water": "Soak & dry (sparing)",
+  "soil": "Gritty cactus mix",
+  "hardiness": "Tender · ~35°F min (Zone 10)",
+  "toxicity": "Non-toxic (but spiny)",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Full, direct sun — barrels want as much as you can give and colour up and spine up best in it. Acclimate gradually before any big jump in light to avoid scorch.",
+    "water": "Soak-and-dry and sparing: a deep drink in warm growth, then bone dry before the next. Keep it dry in winter.",
+    "soil": "A very gritty, fast-draining cactus mix.",
+    "temperature": "Room temperature and warm in summer; keep above ~35°F and dry when cold.",
+    "dormancy": "A summer grower; rest it cool and dry through winter.",
+    "feeding": "A dilute low-nitrogen cactus feed once or twice in summer.",
+    "potting": "Slow-growing; repot infrequently and handle with folded newspaper or thick gloves around the spines.",
+    "propagation": "Usually grown from seed; it may eventually offset at the base.",
+    "bloom": "Cup-shaped flowers near the crown on mature plants.",
+    "troubles": "Rot from overwatering or cold-and-wet; sunburn if moved into strong sun too fast; mealybugs.",
+    "toxicity": "Non-toxic — but the stout spines mean careful handling."
+  },
+  "shots": [
+    {
+      "full": "images/blue-barrel-cactus.jpg",
+      "thumb": "images/blue-barrel-cactus-t.jpg",
+      "cap": "Blue Barrel Cactus",
+      "date": "2026-07"
+    }
+  ]
+}

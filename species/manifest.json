@@ -1,6 +1,24 @@
 {
-  "note": "Generated list of Pokedex species records. Each slug resolves to species/<slug>/species.json. Order here does not matter — the dex sorts by entry number / genus. See CLAUDE.md > Adding a species.",
+  "note": "Generated list of Pokedex species records. Each slug resolves to species/<slug>/species.json. See CLAUDE.md > Adding a species.",
   "species": [
-    "zebra-haworthia"
+    "desert-rose",
+    "moonstones",
+    "echeveria",
+    "zebra-haworthia",
+    "coopers-haworthia",
+    "window-haworthia",
+    "ox-tongue-gasteria",
+    "crassula-deceptor",
+    "babys-necklace",
+    "string-of-buttons",
+    "calico-kitten",
+    "mini-crassula",
+    "devils-backbone",
+    "propeller-plant",
+    "string-of-tears",
+    "brain-cactus",
+    "blue-barrel-cactus",
+    "bunny-ears-cactus",
+    "silver-squill"
   ]
 }

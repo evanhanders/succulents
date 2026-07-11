@@ -1,0 +1,42 @@
+{
+  "dex": 3,
+  "common": "Echeveria",
+  "botanical": "Echeveria sp.",
+  "genus": "Echeveria",
+  "family": "Crassulaceae",
+  "class": "Succulent",
+  "forms": [
+    "Rosette"
+  ],
+  "provisional": true,
+  "blurb": "A neat symmetrical rosette that blushes pink-red at the leaf tips in good light. The classic 'hen' succulent — forgiving, photogenic, and generous with offsets.",
+  "growth_season": "Summer",
+  "size": "Tight rosette ~3–5 in across",
+  "light": "Bright sun",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~30°F min (Zone 10)",
+  "toxicity": "Pet-safe",
+  "acquired": "2026-07",
+  "care": {
+    "light": "The more bright light (including direct sun) it gets, the tighter the rosette and the deeper the tip colour. In low light it pales, stretches, and the rosette opens up.",
+    "water": "Soak-and-dry, watering the soil and never letting water sit in the crown — trapped water rots the centre. Wait until the lower leaves feel slightly soft.",
+    "soil": "A gritty, fast-draining mix keeps the roots healthy and the rosette compact.",
+    "temperature": "Room temperature is ideal; protect from frost — bring it in before the first hard cold.",
+    "dormancy": "A warm-season grower that slows in deep winter; keep it bright and on the dry side then.",
+    "feeding": "A dilute feed once or twice through spring and summer.",
+    "potting": "Repot every year or two in a pot with drainage; a snug pot and gritty mix keep it stress-coloured.",
+    "propagation": "Leaves laid on dry mix, offsets pulled from the base, or beheading a stretched rosette and re-rooting the top.",
+    "bloom": "Bell-shaped flowers on an arching one-sided stalk in the warmer months.",
+    "troubles": "Rot from an overwatered crown, stretching (etiolation) in low light, and mealybugs tucked between leaves.",
+    "toxicity": "Non-toxic and safe around pets."
+  },
+  "shots": [
+    {
+      "full": "images/echeveria.jpg",
+      "thumb": "images/echeveria-t.jpg",
+      "cap": "Echeveria",
+      "date": "2026-07"
+    }
+  ]
+}

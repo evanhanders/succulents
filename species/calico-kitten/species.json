@@ -1,0 +1,46 @@
+{
+  "dex": 11,
+  "common": "Calico Kitten",
+  "botanical": "Crassula pellucida ssp. marginalis 'Variegata'",
+  "genus": "Crassula",
+  "family": "Crassulaceae",
+  "aka": [
+    "Crassula pellucida 'Variegata'",
+    "Calico Kitten"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Trailing"
+  ],
+  "provisional": true,
+  "blurb": "Heart-shaped variegated leaves in cream, green, and rose, trailing on thin stems and flushing deep pink at the edges when happy. A dainty, colourful spiller.",
+  "growth_season": "Winter",
+  "size": "Trailing stems to ~8–12 in",
+  "light": "Bright light (gentle sun)",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~30°F min (Zone 10)",
+  "toxicity": "Mildly toxic to cats & dogs",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with gentle sun brings out the cream-and-pink variegation; the pale, low-chlorophyll leaves scorch in harsh direct sun and turn plain green in shade.",
+    "water": "Soak-and-dry — the thin leaves want a bit more water than fat-leaved succulents, but the mix must dry between and never stay soggy.",
+    "soil": "A gritty, fast-draining mix.",
+    "temperature": "Room temperature; keep above freezing.",
+    "dormancy": "A cool-season grower; ease off water in peak summer.",
+    "feeding": "A dilute feed once or twice in the growing season.",
+    "potting": "Nice in a hanging pot; trim and replant cuttings to keep it full.",
+    "propagation": "Stem and leaf cuttings root easily.",
+    "bloom": "Small white star flowers.",
+    "troubles": "Scorch on the variegated leaves in too much sun, rot from overwatering, and mealybugs.",
+    "toxicity": "Considered mildly toxic to cats and dogs if eaten."
+  },
+  "shots": [
+    {
+      "full": "images/calico-kitten.jpg",
+      "thumb": "images/calico-kitten-t.jpg",
+      "cap": "Calico Kitten",
+      "date": "2026-07"
+    }
+  ]
+}

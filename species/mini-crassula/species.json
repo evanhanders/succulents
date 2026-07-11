@@ -1,0 +1,42 @@
+{
+  "dex": 12,
+  "common": "Miniature Crassula",
+  "botanical": "Crassula sp.",
+  "genus": "Crassula",
+  "family": "Crassulaceae",
+  "class": "Succulent",
+  "forms": [
+    "Clumping"
+  ],
+  "provisional": true,
+  "blurb": "A tiny stacked-leaf Crassula, still just a plug — possibly an offset of one of the other Crassulas on the shelf. Filed here until it grows up enough to name confidently.",
+  "growth_season": "Winter",
+  "size": "Tiny — under ~2 in for now",
+  "light": "Bright indirect (while young)",
+  "water": "Soak & dry (careful)",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~30°F min (Zone 10)",
+  "toxicity": "Mildly toxic to cats & dogs",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright, indirect light while it's small and establishing; ease it toward stronger light as it bulks up.",
+    "water": "Soak-and-dry, but go gently — a tiny root system in a small pot dries fast yet rots easily if kept wet. Let it dry fully between drinks.",
+    "soil": "A gritty, fast-draining mix.",
+    "temperature": "Room temperature; keep above freezing.",
+    "dormancy": "Like its kin, a cool-season grower that rests in summer heat.",
+    "feeding": "Barely, if at all, while this small.",
+    "potting": "Leave it to settle and root before potting on; move up only a size at a time.",
+    "propagation": "Crassulas root readily from stem and leaf cuttings — this may itself be a stray that rooted.",
+    "bloom": "Not likely until it's much larger.",
+    "troubles": "Its size makes it unforgiving of overwatering; keep an eye out for damping-off and mealybugs.",
+    "toxicity": "Considered mildly toxic to cats and dogs if eaten."
+  },
+  "shots": [
+    {
+      "full": "images/mini-crassula.jpg",
+      "thumb": "images/mini-crassula-t.jpg",
+      "cap": "Miniature Crassula",
+      "date": "2026-07"
+    }
+  ]
+}

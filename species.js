@@ -67,6 +67,7 @@ function renderDetail(p){
           '<div class="types">' + typeBadges(p) + '</div>' +
           '<h1>' + esc(p.common) + '</h1>' +
           '<p class="latin">' + esc(p.botanical || '') + '</p>' +
+          (p.provisional ? '<p class="prov">✎ Tentative ID — not yet confirmed</p>' : '') +
           (lineage ? '<p class="lineage">' + esc(lineage) + '</p>' : '') +
           (p.aka && p.aka.length ? '<p class="aka">Also: ' + esc(p.aka.join(' · ')) + '</p>' : '') +
           '<p class="blurb">' + esc(p.blurb || '') + '</p>' +

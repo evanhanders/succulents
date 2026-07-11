@@ -97,6 +97,9 @@ real file (`species/zebra-haworthia/species.json` is the reference). Fields:
   "safe / non-toxic / pet-safe" (and flips to toxic if it also says "toxic to / harmful").
 - **`acquired`** *(string, optional)* — when it joined the collection ("2026-06"); shows in the
   glance table as "In collection since".
+- **`provisional`** *(bool, optional)* — set `true` when the species ID is a best-guess, not
+  confirmed. Renders a small italic "✎ Tentative ID" marker under the botanical name on the card
+  and the detail sheet (`.prov` in `styles.css`). Drop the key once the ID is confirmed.
 - **`care`** *(object, optional)* — the detail page's "Growing & care" grid. A flat object of
   prose strings; `species.js`'s `CARE_FIELDS` reads a fixed ordered allow-list and skips any
   absent key, so fill in as many as apply. Keys, in order:

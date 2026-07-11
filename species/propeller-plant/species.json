@@ -1,0 +1,46 @@
+{
+  "dex": 14,
+  "common": "Propeller Plant",
+  "botanical": "Senecio crassissimus",
+  "genus": "Senecio",
+  "family": "Asteraceae",
+  "aka": [
+    "Vertical Leaf Senecio",
+    "Curio crassissimus"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Shrub"
+  ],
+  "provisional": true,
+  "blurb": "Flat, blue-grey leaves held edge-on to the sun and rimmed in purple, angled like little propeller blades up an upright stem. The purple edging deepens the brighter you grow it.",
+  "growth_season": "Summer",
+  "size": "Upright to ~8–12 in",
+  "light": "Full sun to bright",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~30°F min (Zone 10)",
+  "toxicity": "Toxic to cats & dogs",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Full sun to very bright light gives the strongest purple leaf margins and a compact, upright habit; in low light it stretches and greens out.",
+    "water": "Soak-and-dry, letting the mix dry fully between waterings; markedly less in winter.",
+    "soil": "A gritty, fast-draining mix.",
+    "temperature": "Room temperature; keep above freezing.",
+    "dormancy": "A warm-season grower that rests in winter — keep it drier and brighter then.",
+    "feeding": "A dilute feed once or twice through spring and summer.",
+    "potting": "Repot every year or two; cut back and re-root to keep it from getting leggy.",
+    "propagation": "Stem cuttings root easily after a day or two to callus.",
+    "bloom": "Small yellow-orange daisy-like flower heads on tall stalks.",
+    "troubles": "Legginess in low light and rot from overwatering; aphids and mealybugs.",
+    "toxicity": "Senecios are toxic to cats and dogs if eaten — best kept out of reach."
+  },
+  "shots": [
+    {
+      "full": "images/propeller-plant.jpg",
+      "thumb": "images/propeller-plant-t.jpg",
+      "cap": "Propeller Plant",
+      "date": "2026-07"
+    }
+  ]
+}

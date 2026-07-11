@@ -1,0 +1,45 @@
+{
+  "dex": 1,
+  "common": "Desert Rose",
+  "botanical": "Adenium obesum",
+  "genus": "Adenium",
+  "family": "Apocynaceae",
+  "aka": [
+    "Adenium obesum"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Caudex",
+    "Shrub"
+  ],
+  "blurb": "A caudiciform desert shrub with a fat, water-storing trunk (the 'caudex') and trumpet flowers. Slow, sculptural, and a sun-worshipper — the swollen base is the whole point.",
+  "growth_season": "Summer",
+  "size": "Currently ~6 in; a swollen-based bonsai-like caudex over time",
+  "light": "Full sun",
+  "water": "Soak & dry (dry when leafless)",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · keep above ~50°F (Zone 11)",
+  "toxicity": "Toxic to pets & people (milky sap)",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Give it the brightest, sunniest spot you have — a south window or full outdoor sun once acclimated. Skimpy light means weak, leggy growth and no flowers.",
+    "water": "Water thoroughly while it's in leaf and growing, letting the mix dry fully between. When it drops its leaves and rests, keep it nearly dry — a cold, wet caudex rots fast.",
+    "soil": "A very fast-draining, mostly-mineral mix (pumice/grit with a little potting soil). It hates staying wet at the base.",
+    "temperature": "A true warm-lover: happiest 60–90°F. Protect it from anything below ~50°F and never let it freeze.",
+    "dormancy": "Summer grower. As days shorten and cool it usually drops its leaves and goes dormant — that's your cue to cut water right back until new growth returns in spring.",
+    "feeding": "A dilute balanced or bloom fertilizer every few weeks through the warm growing season; nothing while dormant.",
+    "potting": "Shallow, well-drained pots suit it; many growers lift the caudex a little higher at each repot to show it off. Repot in warm weather.",
+    "propagation": "From seed if you want a fat caudex — cutting-grown plants root but stay skinny-stemmed and never bulk up the same way.",
+    "bloom": "Clusters of pink-to-red trumpet flowers through the warm months once it has enough light and warmth.",
+    "troubles": "Rot from cold, wet feet is the big killer; also watch for aphids and mealybugs on new growth.",
+    "toxicity": "The milky sap contains cardiac glycosides and is toxic if ingested and irritating to skin and eyes — keep it away from pets and kids and wash up after pruning."
+  },
+  "shots": [
+    {
+      "full": "images/desert-rose.jpg",
+      "thumb": "images/desert-rose-t.jpg",
+      "cap": "Desert Rose",
+      "date": "2026-07"
+    }
+  ]
+}

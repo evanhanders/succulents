@@ -1,0 +1,47 @@
+{
+  "dex": 13,
+  "common": "Devil's Backbone",
+  "botanical": "Euphorbia tithymaloides",
+  "genus": "Euphorbia",
+  "family": "Euphorbiaceae",
+  "aka": [
+    "Pedilanthus tithymaloides",
+    "Zigzag Plant",
+    "Redbird Cactus"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Shrub",
+    "Columnar"
+  ],
+  "blurb": "A succulent euphorbia whose green stems kink back and forth in sharp zigzags — hence the name. This one has dropped its leaves and is currently rangy and stressed; the plan is to nurse it back into full leaf.",
+  "growth_season": "Summer",
+  "size": "Currently a leafless ~6 in stem, recovering",
+  "light": "Bright light to full sun",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · keep above ~50°F (Zone 10–11)",
+  "toxicity": "Toxic — irritant sap, harmful to pets",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light to full sun encourages it to leaf out fully and grow sturdy; poor light is a big reason it goes bare and leggy like this one.",
+    "water": "Soak-and-dry while it's in active growth, letting the mix dry between; keep it drier in winter. Since it's stressed right now, err on the dry side and let roots and light do the recovery.",
+    "soil": "A gritty, fast-draining mix.",
+    "temperature": "Warmth-loving — keep it above ~50°F; cold and wet together will finish it off.",
+    "dormancy": "A warm-season grower; it slows and can drop leaves in cold, low-light spells (which is likely what happened here).",
+    "feeding": "A dilute feed monthly through the warm growing season once it's actively pushing new leaves.",
+    "potting": "Repot in warm weather into fresh gritty mix; stake or prune leggy stems to shape.",
+    "propagation": "Stem cuttings root well — let the cut latex dry and callus first, and wear gloves.",
+    "bloom": "Small red-and-green slipper-shaped flower bracts at the stem tips on happy, mature plants.",
+    "troubles": "Leaf drop and legginess from low light, cold, or drought (its current state); rot from cold-and-wet; mealybugs.",
+    "toxicity": "The milky latex is a genuine irritant — toxic if eaten and nasty in eyes and on skin. Keep it away from pets and children and handle with gloves."
+  },
+  "shots": [
+    {
+      "full": "images/devils-backbone.jpg",
+      "thumb": "images/devils-backbone-t.jpg",
+      "cap": "Devil's Backbone",
+      "date": "2026-07"
+    }
+  ]
+}

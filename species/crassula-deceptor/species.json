@@ -1,0 +1,45 @@
+{
+  "dex": 8,
+  "common": "Crassula deceptor",
+  "botanical": "Crassula deceptor",
+  "genus": "Crassula",
+  "family": "Crassulaceae",
+  "aka": [
+    "Crassula arta"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Columnar",
+    "Clumping"
+  ],
+  "blurb": "A slow, chalk-white column of tightly stacked leaves covered in a fine warty bloom, packed so densely the stem all but disappears. A collector's miniature that wants sun and almost no water.",
+  "growth_season": "Winter",
+  "size": "Squat columns ~2–4 in, clumping",
+  "light": "Full sun to bright",
+  "water": "Soak & dry (sparing)",
+  "soil": "Sharp mineral mix",
+  "hardiness": "Tender · ~40°F min (Zone 10)",
+  "toxicity": "Mildly toxic to cats & dogs",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Full sun to very bright light keeps the columns tight, white, and compact. Weak light makes it stretch and lose the neat stacked look.",
+    "water": "Water sparingly and only when bone dry. Like most Crassula it grows in the cool season and largely rests through summer heat — keep it especially dry then to avoid rot.",
+    "soil": "A sharp, mostly-mineral mix (heavy on pumice or grit); it will not tolerate staying damp.",
+    "temperature": "Room temperature; keep above ~40°F and dry when cold.",
+    "dormancy": "A winter grower — most active in the cooler, shorter days and dormant in peak summer, which is the opposite of many succulents.",
+    "feeding": "Barely feeds; a very dilute feed once in the growing season at most.",
+    "potting": "Slow-growing and happy snug; repot infrequently into fresh gritty mix.",
+    "propagation": "From stem cuttings or leaves, allowed to callus before setting on dry mix.",
+    "bloom": "Small pale flowers clustered at the stem tips.",
+    "troubles": "Summer rot from warmth-plus-water is the classic mistake; mealybugs otherwise.",
+    "toxicity": "Like other Crassula, considered mildly toxic to cats and dogs if eaten."
+  },
+  "shots": [
+    {
+      "full": "images/crassula-deceptor.jpg",
+      "thumb": "images/crassula-deceptor-t.jpg",
+      "cap": "Crassula deceptor",
+      "date": "2026-07"
+    }
+  ]
+}

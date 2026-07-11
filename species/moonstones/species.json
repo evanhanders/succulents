@@ -1,0 +1,45 @@
+{
+  "dex": 2,
+  "common": "Moonstones",
+  "botanical": "Pachyphytum oviferum",
+  "genus": "Pachyphytum",
+  "family": "Crassulaceae",
+  "aka": [
+    "Sugaralmond plant"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Rosette",
+    "Clumping"
+  ],
+  "blurb": "Plump, egg-shaped leaves dusted in a chalky lavender-blue farina — like a handful of sugared almonds. That powdery coating is its sunscreen, so try not to rub it off.",
+  "growth_season": "Summer",
+  "size": "Loose rosettes of egg-shaped leaves ~4–5 in tall",
+  "light": "Bright, with some direct sun",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~30°F min (Zone 10)",
+  "toxicity": "Pet-safe",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with a few hours of gentle direct sun keeps the leaves fat and the pastel colours strong; too little and it stretches and greens up.",
+    "water": "Classic soak-and-dry — a deep drink only once the leaves feel slightly soft and the soil is bone dry. Water the soil, never over the powdery leaves.",
+    "soil": "A fast-draining gritty mix; those water-filled leaves rot quickly in anything that stays damp.",
+    "temperature": "Comfortable at room temperature; keep it above freezing and bring it in well before frost.",
+    "dormancy": "Grows mainly in the milder parts of the year; ease off water in the hottest peak of summer and in deep winter.",
+    "feeding": "A quarter-strength cactus feed once or twice in the growing season is plenty.",
+    "potting": "Snug pots are fine; repot every couple of years. Handle by the stem — fingerprints in the farina are permanent until the leaf is replaced.",
+    "propagation": "Very easy from a gently twisted-off leaf laid on dry mix, and from offsets.",
+    "bloom": "Arching stalks of red-orange bell flowers peeking from between colourful bracts in late winter to spring.",
+    "troubles": "Overwatering (translucent, mushy leaves) is the main risk; mealybugs hide between the tight leaves.",
+    "toxicity": "Non-toxic and considered safe around cats and dogs."
+  },
+  "shots": [
+    {
+      "full": "images/moonstones.jpg",
+      "thumb": "images/moonstones-t.jpg",
+      "cap": "Moonstones",
+      "date": "2026-07"
+    }
+  ]
+}

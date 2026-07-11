@@ -1,0 +1,44 @@
+{
+  "dex": 16,
+  "common": "Brain Cactus",
+  "botanical": "Mammillaria elongata f. cristata",
+  "genus": "Mammillaria",
+  "family": "Cactaceae",
+  "aka": [
+    "Crested Ladyfinger Cactus"
+  ],
+  "class": "Cactus",
+  "forms": [
+    "Clumping"
+  ],
+  "blurb": "The ladyfinger cactus in its crested (cristate) form — instead of neat fingers, the growing point fans into undulating, brain-like folds packed with soft golden spines. A living squiggle.",
+  "growth_season": "Summer",
+  "size": "A crested mound ~4–6 in wide",
+  "light": "Full sun (bright)",
+  "water": "Soak & dry (sparing)",
+  "soil": "Gritty cactus mix",
+  "hardiness": "Tender · ~35°F min (Zone 10)",
+  "toxicity": "Non-toxic (but spiny)",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with plenty of direct sun keeps it tight and well-spined; too little light and the crest grows soft and pale. Give a little shade only in extreme summer heat.",
+    "water": "Soak-and-dry and on the sparing side — water thoroughly, then wait until bone dry. Keep it nearly dry through winter.",
+    "soil": "A gritty cactus mix that drains almost instantly.",
+    "temperature": "Room temperature; keep above ~35°F. A cool, dry winter rest encourages spring flowers.",
+    "dormancy": "A summer grower that rests cool and dry in winter — that dry rest is what triggers the ring of flowers.",
+    "feeding": "A dilute low-nitrogen cactus feed once or twice in summer.",
+    "potting": "Repot infrequently; the crest can hold water in its folds, so keep the mix low around the base and never let water sit in the crown.",
+    "propagation": "By cutting and rooting sections of the crest (fiddly) or from any normal offsets it throws.",
+    "bloom": "A crown of small cream-to-yellow flowers, often in a ring, after a cool dry winter.",
+    "troubles": "Rot from water trapped in the crest, plus mealybugs and red spider mites.",
+    "toxicity": "Non-toxic — but the fine spines catch skin, so handle with care."
+  },
+  "shots": [
+    {
+      "full": "images/brain-cactus.jpg",
+      "thumb": "images/brain-cactus-t.jpg",
+      "cap": "Brain Cactus",
+      "date": "2026-07"
+    }
+  ]
+}

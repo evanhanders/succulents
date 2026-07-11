@@ -1,0 +1,46 @@
+{
+  "dex": 7,
+  "common": "Ox Tongue",
+  "botanical": "Gasteria sp.",
+  "genus": "Gasteria",
+  "family": "Asphodelaceae",
+  "aka": [
+    "Gasteria"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Clumping",
+    "Rosette"
+  ],
+  "provisional": true,
+  "blurb": "Thick, tongue-shaped leaves speckled with pale warts, held in two ranks when young. One of the most shade-tolerant and forgiving succulents going — named for its stomach-shaped flowers (gaster = stomach).",
+  "growth_season": "Ever",
+  "size": "Strap leaves ~4–6 in, offsetting into a clump",
+  "light": "Bright indirect to partial",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~40°F min (Zone 10)",
+  "toxicity": "Pet-safe",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright indirect light to partial shade suits it best — it's one of the few succulents genuinely happy out of direct sun, which can scorch pale patches on the leaves.",
+    "water": "Soak-and-dry, watering at the base to keep water out of the leaf crevices. Let it dry fully between drinks; less in winter.",
+    "soil": "A gritty, free-draining mix.",
+    "temperature": "Room temperature; keep above ~40°F, no frost.",
+    "dormancy": "Opportunistic — grows in the milder months, rests in extreme heat and cold.",
+    "feeding": "A dilute feed once or twice in the growing season.",
+    "potting": "Slow and content snug; repot mainly to divide the clumping offsets.",
+    "propagation": "Offsets are the easy route; leaf cuttings also work but are slow.",
+    "bloom": "Arching stalks of curved, stomach-shaped pink-and-green flowers — the source of the name.",
+    "troubles": "Overwatering rot and sunburn are the main issues; occasionally mealybugs.",
+    "toxicity": "Non-toxic and safe around pets."
+  },
+  "shots": [
+    {
+      "full": "images/ox-tongue-gasteria.jpg",
+      "thumb": "images/ox-tongue-gasteria-t.jpg",
+      "cap": "Ox Tongue",
+      "date": "2026-07"
+    }
+  ]
+}

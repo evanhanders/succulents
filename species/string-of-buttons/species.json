@@ -1,0 +1,46 @@
+{
+  "dex": 10,
+  "common": "String of Buttons",
+  "botanical": "Crassula perforata",
+  "genus": "Crassula",
+  "family": "Crassulaceae",
+  "aka": [
+    "Crassula perforata"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Columnar",
+    "Trailing"
+  ],
+  "provisional": true,
+  "blurb": "Triangular grey-green leaves stacked and spiralling around the stem so it looks threaded through the middle, edges pinking up in sun. An easy, architectural spiller.",
+  "growth_season": "Winter",
+  "size": "Stacked stems ~6–8 in, sprawling with age",
+  "light": "Bright light to full sun",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~30°F min (Zone 10)",
+  "toxicity": "Mildly toxic to cats & dogs",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with some direct sun for tight spacing and rosy edges; it stretches and the spiral opens up in shade.",
+    "water": "Soak-and-dry, watering more in the cool growing season and easing off in summer heat.",
+    "soil": "A gritty, free-draining mix.",
+    "temperature": "Room temperature; protect from frost.",
+    "dormancy": "A winter/cool-season grower that rests through the hottest part of summer.",
+    "feeding": "A dilute feed once or twice while growing.",
+    "potting": "Repot as it lengthens; cut back leggy stems to keep it bushy.",
+    "propagation": "Stem cuttings root very easily — lay a piece on dry mix.",
+    "bloom": "Small pale star flowers clustered near the stem tips.",
+    "troubles": "Legginess in low light and rot from summer overwatering; mealybugs.",
+    "toxicity": "Considered mildly toxic to cats and dogs if eaten."
+  },
+  "shots": [
+    {
+      "full": "images/string-of-buttons.jpg",
+      "thumb": "images/string-of-buttons-t.jpg",
+      "cap": "String of Buttons",
+      "date": "2026-07"
+    }
+  ]
+}

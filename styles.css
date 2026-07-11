@@ -176,6 +176,8 @@ img{ max-width:100%; }
 .namelink:hover{ color:var(--dex); }
 .latin{ margin:0; font-style:italic; color:var(--ink-soft); font-size:.92rem; }
 .aka{ margin:0; font-size:.82rem; color:var(--ink-soft); }
+.prov{ margin:2px 0 0; font-size:.76rem; font-style:italic; font-weight:600; color:var(--spine);
+  display:inline-block; }
 .blurb{ margin:6px 0 4px; font-size:.92rem; }
 .facts{ display:grid; grid-template-columns:auto 1fr; gap:2px 12px; margin:6px 0 4px; font-size:.86rem; }
 .facts dt{ color:var(--ink-soft); font-weight:600; }

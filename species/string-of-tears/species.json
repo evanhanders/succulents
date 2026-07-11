@@ -1,0 +1,45 @@
+{
+  "dex": 15,
+  "common": "String of Tears",
+  "botanical": "Curio citriformis",
+  "genus": "Curio",
+  "family": "Asteraceae",
+  "aka": [
+    "Senecio citriformis",
+    "String of Teardrops"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Trailing"
+  ],
+  "blurb": "Little teardrop-shaped beads, pointed at the tip and striped with translucent 'windows', strung along trailing stems. The daintier cousin of String of Pearls.",
+  "growth_season": "Ever",
+  "size": "Trailing strands to ~8–12 in",
+  "light": "Bright indirect to gentle sun",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~30°F min (Zone 10)",
+  "toxicity": "Toxic to cats & dogs",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright, indirect light with a little gentle sun keeps the beads plump and close-spaced; harsh sun shrivels them and deep shade makes the strands sparse and stretched.",
+    "water": "Soak-and-dry — water when the beads start to look a touch soft, then let it dry. The shallow roots rot quickly if kept wet.",
+    "soil": "A gritty, fast-draining mix; a wide shallow pot suits the shallow roots.",
+    "temperature": "Room temperature; keep above freezing.",
+    "dormancy": "Grows in the milder months and eases off in extreme heat; keep it on the dry side then.",
+    "feeding": "A dilute feed once or twice in the growing season.",
+    "potting": "Lovely trailing from a raised pot; lay stray strands on the soil and they root to fill in.",
+    "propagation": "Very easy — coil a strand onto dry mix and the nodes root.",
+    "bloom": "Small white brush-like flowers with a light cinnamon scent.",
+    "troubles": "Overwatering and rot are the main risks, plus the occasional aphid or mealybug.",
+    "toxicity": "Like other senecios, toxic to cats and dogs if eaten."
+  },
+  "shots": [
+    {
+      "full": "images/string-of-tears.jpg",
+      "thumb": "images/string-of-tears-t.jpg",
+      "cap": "String of Tears",
+      "date": "2026-07"
+    }
+  ]
+}

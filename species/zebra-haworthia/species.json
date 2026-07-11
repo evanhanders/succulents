@@ -1,33 +1,46 @@
 {
-  "dex": 1,
+  "dex": 4,
   "common": "Zebra Haworthia",
   "botanical": "Haworthiopsis attenuata",
   "genus": "Haworthiopsis",
   "family": "Asphodelaceae",
-  "aka": ["Zebra plant", "Haworthia attenuata"],
+  "aka": [
+    "Haworthia attenuata"
+  ],
   "class": "Succulent",
-  "forms": ["Rosette", "Clumping"],
-  "blurb": "A small, slow, indestructible rosette of stiff dark-green leaves banded with raised pearly-white tubercles — the classic beginner's succulent. Happy on a bright windowsill, forgiving of neglect, and generous with offsets.",
-  "growth_season": "Summer",
-  "size": "4–6 in tall × 5 in wide (clumps wider with offsets)",
+  "forms": [
+    "Rosette",
+    "Clumping"
+  ],
+  "provisional": true,
+  "blurb": "A stiff dark-green rosette of upright, tapering leaves ridged with raised pearly tubercles. Tough, slow, and happy to sit on a bright shelf out of harsh sun.",
+  "growth_season": "Ever",
+  "size": "Rosette ~4–6 in, clumping with offsets",
   "light": "Bright indirect",
   "water": "Soak & dry",
-  "soil": "Gritty mix",
+  "soil": "Gritty mineral mix",
   "hardiness": "Tender · ~40°F min (Zone 10)",
   "toxicity": "Pet-safe",
-  "acquired": "2026-06",
+  "acquired": "2026-07",
   "care": {
-    "light": "Bright, indirect light is the sweet spot — an east or shaded south window indoors, or dappled shade outside. It tolerates lower light better than most succulents but stretches (etiolates) and pales in a dark corner. A little direct morning sun deepens the green and can blush the leaf tips a pleasant red; harsh all-day summer sun scorches white patches, so acclimate slowly before any move into stronger light.",
-    "water": "Soak-and-dry: drench until water runs from the drainage hole, then wait until the soil is fully dry AND the lower leaves feel slightly soft before watering again — roughly every 2–3 weeks in warm growth, monthly or less in winter. Water the soil, not the rosette; standing water trapped in the crown invites rot. When in doubt, wait: this plant far prefers a missed watering to a soggy one.",
-    "soil": "A fast-draining gritty mix — roughly half mineral (pumice, coarse perlite, or crushed granite) to half a peat/coir-based potting soil. The goal is a mix that wets through and then dries out quickly. Avoid dense, water-holding \"potting soil\" straight from the bag.",
-    "temperature": "Comfortable at normal room temperatures, ~65–80°F. Keep it above ~40°F — it is not frost-hardy and should come indoors well before the first frost. It tolerates dry indoor air fine and does not need humidity.",
-    "dormancy": "A warm-season grower: active spring through fall, resting in the cold, low-light months. Ease off water in winter and give it the brightest spot you have; resume normal watering as the days lengthen and you see new growth from the center.",
-    "feeding": "Barely feeds — a dilute (quarter-strength) balanced or cactus fertilizer once or twice during the spring–summer growing season is plenty. Never feed a dormant or bone-dry plant.",
-    "potting": "Slow-growing and content to be snug, so it rarely needs a bigger pot — repot every 2–3 years, or when the clump crowds the rim, using a pot with a drainage hole (terracotta is ideal, it wicks moisture away). Repot in spring; keep it dry for a few days afterward to let any disturbed roots callus.",
-    "propagation": "Easiest by offsets: mature clumps throw \"pups\" around the base — twist or cut one off with a few roots, let it callus a day, and pot it up. Leaf cuttings are possible but slow and unreliable. It can also be grown from seed, but that is a long game.",
-    "bloom": "In late spring to summer a wiry stalk lifts a spray of small, tubular off-white flowers well above the rosette. Modest but charming; the plant does not die after flowering (it is not a monocarpic agave). Snip the spent stalk once it dries.",
-    "troubles": "Overwatering is the only real killer — mushy, translucent, or blackening leaves mean rot; unpot, cut away any rotted tissue, and restart the healthy top. Etiolation (a stretched, pale, loosening rosette) means too little light. Watch for mealybugs (white cottony tufts in the leaf axils) and dab them with a cotton swab of isopropyl alcohol.",
-    "toxicity": "Non-toxic and considered safe around cats, dogs, and children — one of the reasons it's such a popular houseplant. As with any plant, not meant to be eaten."
+    "light": "Bright, indirect light is the sweet spot — an east window or filtered light. It takes gentle morning sun but scorches in harsh afternoon glare.",
+    "water": "Soak-and-dry: a good drink, then wait until fully dry and the lower leaves give slightly. Less often in the low-light months.",
+    "soil": "A fast-draining gritty mix, roughly half mineral to half potting soil.",
+    "temperature": "Ordinary room temperatures; keep it above ~40°F and out of frost.",
+    "dormancy": "An opportunistic grower that does most of its work in spring and autumn and rests in the hottest and coldest spells — ease off water then.",
+    "feeding": "Very little — a dilute feed once or twice in the growing season.",
+    "potting": "Slow and happy snug; repot every 2–3 years, mainly to divide the clump of offsets.",
+    "propagation": "Easiest by twisting off rooted offsets from around the base.",
+    "bloom": "A wiry stalk of small tubular off-white flowers well above the rosette; it doesn't die after flowering.",
+    "troubles": "Overwatering rot is the only real danger; watch for mealybugs in the leaf axils.",
+    "toxicity": "Non-toxic and safe around cats and dogs."
   },
-  "shots": []
+  "shots": [
+    {
+      "full": "images/zebra-haworthia.jpg",
+      "thumb": "images/zebra-haworthia-t.jpg",
+      "cap": "Zebra Haworthia",
+      "date": "2026-07"
+    }
+  ]
 }

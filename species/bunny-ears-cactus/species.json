@@ -1,0 +1,46 @@
+{
+  "dex": 18,
+  "common": "Bunny Ears Cactus",
+  "botanical": "Opuntia microdasys",
+  "genus": "Opuntia",
+  "family": "Cactaceae",
+  "aka": [
+    "Polka-dot Cactus",
+    "Angel's Wings"
+  ],
+  "class": "Cactus",
+  "forms": [
+    "Paddle",
+    "Clumping"
+  ],
+  "blurb": "Flat oval pads sprouting in pairs like bunny ears, dotted with tufts of fine golden glochids instead of long spines. Cute — but those tufts are the real spines here, and they mean it.",
+  "growth_season": "Summer",
+  "size": "Branching pads to ~4–6 in",
+  "light": "Full sun",
+  "water": "Soak & dry",
+  "soil": "Gritty cactus mix",
+  "hardiness": "Tender · ~35°F min (Zone 10)",
+  "toxicity": "Non-toxic, but glochids irritate skin",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Full sun for compact pads and to keep new growth from stretching; it's a true desert cactus and loves all the light it can get.",
+    "water": "Soak-and-dry — it takes a bit more water than a globular cactus while actively growing pads in summer, then stays dry through winter.",
+    "soil": "A gritty, fast-draining cactus mix.",
+    "temperature": "Warm in summer; keep above ~35°F and dry when cold.",
+    "dormancy": "A summer grower; rest cool and dry in winter.",
+    "feeding": "A dilute cactus feed once or twice in summer.",
+    "potting": "Repot with tongs or folded newspaper — never bare hands. Pads snap off easily as new plants.",
+    "propagation": "Lay a detached pad on dry mix to callus, then pot — it roots readily.",
+    "bloom": "Yellow flowers along the pad edges on mature plants in strong light.",
+    "troubles": "The glochids are the main hazard to you; the plant itself mainly fears overwatering rot and cochineal scale (white cottony spots).",
+    "toxicity": "Non-toxic to eat, but the tiny barbed glochids lodge in skin and are miserable to remove — keep it where pets and people won't brush it."
+  },
+  "shots": [
+    {
+      "full": "images/bunny-ears-cactus.jpg",
+      "thumb": "images/bunny-ears-cactus-t.jpg",
+      "cap": "Bunny Ears Cactus",
+      "date": "2026-07"
+    }
+  ]
+}

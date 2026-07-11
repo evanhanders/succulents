@@ -1,0 +1,43 @@
+{
+  "dex": 6,
+  "common": "Window Haworthia",
+  "botanical": "Haworthia sp.",
+  "genus": "Haworthia",
+  "family": "Asphodelaceae",
+  "class": "Succulent",
+  "forms": [
+    "Rosette",
+    "Clumping"
+  ],
+  "provisional": true,
+  "blurb": "A silvery-green rosette of incurved leaves lined with soft white bristles and faint leaf-windows. Another easy-going, shade-tolerant Haworthia for a bright shelf.",
+  "growth_season": "Ever",
+  "size": "Rosette ~3–4 in",
+  "light": "Bright indirect",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~40°F min (Zone 10)",
+  "toxicity": "Pet-safe",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright, indirect light. It tolerates lower light better than most succulents but colours and stays compact best with strong filtered light; harsh sun scorches it.",
+    "water": "Soak-and-dry — a deep drink, then fully dry before the next, easing off in winter.",
+    "soil": "A fast-draining gritty mix.",
+    "temperature": "Ordinary room temperatures, above ~40°F.",
+    "dormancy": "Grows in the mild seasons and rests in extreme heat and cold.",
+    "feeding": "Very light feeding once or twice in the growing season.",
+    "potting": "Repot every 2–3 years, dividing offsets as it clumps.",
+    "propagation": "By offsets from the base.",
+    "bloom": "Small white tubular flowers on a slender stalk.",
+    "troubles": "Overwatering rot; the occasional mealybug.",
+    "toxicity": "Non-toxic and pet-safe."
+  },
+  "shots": [
+    {
+      "full": "images/window-haworthia.jpg",
+      "thumb": "images/window-haworthia-t.jpg",
+      "cap": "Window Haworthia",
+      "date": "2026-07"
+    }
+  ]
+}

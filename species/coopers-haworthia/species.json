@@ -1,0 +1,46 @@
+{
+  "dex": 5,
+  "common": "Cooper's Haworthia",
+  "botanical": "Haworthia cooperi",
+  "genus": "Haworthia",
+  "family": "Asphodelaceae",
+  "aka": [
+    "Haworthia cooperi"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Rosette",
+    "Clumping"
+  ],
+  "provisional": true,
+  "blurb": "Soft, plump leaves with translucent 'windowed' tips and fine bristly edges — in the wild it grows half-buried, letting light down through those windows. A gentle-natured, thirstier Haworthia.",
+  "growth_season": "Ever",
+  "size": "Small rosette ~2–4 in, clustering",
+  "light": "Bright indirect",
+  "water": "Soak & dry",
+  "soil": "Gritty (slightly retentive)",
+  "hardiness": "Tender · ~40°F min (Zone 10)",
+  "toxicity": "Pet-safe",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright but indirect light — those soft windowed leaves burn in direct sun. Filtered light keeps them plump and translucent rather than red-stressed and shrivelled.",
+    "water": "Soak-and-dry, but it likes a touch more water than the hard-leaved haworthias; when the leaves start to look less plump, give it a good drink and let it drain.",
+    "soil": "A gritty mix with a little more moisture retention than a pure cactus blend; still must drain freely.",
+    "temperature": "Room temperature; keep above ~40°F and out of frost.",
+    "dormancy": "Opportunistic — grows in the mild months and rests in peak heat and cold; water less then.",
+    "feeding": "A dilute feed once or twice through the growing season.",
+    "potting": "Repot every couple of years to refresh the mix and separate the clump.",
+    "propagation": "Offsets pull away with a few roots and pot up easily.",
+    "bloom": "Thin stalks of small white tubular flowers.",
+    "troubles": "Overwatering (mushy, translucent-to-brown leaves) and too much sun (reddening, scorch); mealybugs occasionally.",
+    "toxicity": "Non-toxic and pet-safe."
+  },
+  "shots": [
+    {
+      "full": "images/coopers-haworthia.jpg",
+      "thumb": "images/coopers-haworthia-t.jpg",
+      "cap": "Cooper's Haworthia",
+      "date": "2026-07"
+    }
+  ]
+}

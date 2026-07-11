@@ -207,6 +207,7 @@ function cardHTML(p){
       '<div class="types">' + typeBadges(p) + '</div>' +
       '<div class="namerow"><h3 class="name">' + name + '</h3></div>' +
       '<p class="latin">' + esc(p.botanical || '') + '</p>' +
+      (p.provisional ? '<p class="prov">✎ Tentative ID</p>' : '') +
       (p.aka && p.aka.length ? '<p class="aka">Also: ' + esc(p.aka.join(' · ')) + '</p>' : '') +
       '<p class="blurb">' + esc(p.blurb || '') + '</p>' +
       '<dl class="facts">' +

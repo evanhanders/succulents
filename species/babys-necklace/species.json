@@ -1,0 +1,47 @@
+{
+  "dex": 9,
+  "common": "Baby's Necklace",
+  "botanical": "Crassula rupestris",
+  "genus": "Crassula",
+  "family": "Crassulaceae",
+  "aka": [
+    "Crassula 'Baby Necklace'",
+    "Crassula rupestris"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Trailing",
+    "Clumping"
+  ],
+  "provisional": true,
+  "blurb": "Round, tightly stacked leaves threaded on the stem like beads on a string, blushing red at the edges in strong light. Fast, cheerful, and almost impossible to kill from cuttings.",
+  "growth_season": "Winter",
+  "size": "Threaded stems ~4–6 in, sprawling",
+  "light": "Bright light to full sun",
+  "water": "Soak & dry",
+  "soil": "Gritty mineral mix",
+  "hardiness": "Tender · ~30°F min (Zone 10)",
+  "toxicity": "Mildly toxic to cats & dogs",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright light with some direct sun keeps the beads tight and edged in red; in low light the stacks loosen and green out.",
+    "water": "Soak-and-dry — a good drink, then fully dry before the next. It grows in the cooler months, so water more freely then and back off in summer heat.",
+    "soil": "A gritty, fast-draining mix.",
+    "temperature": "Room temperature; keep above freezing.",
+    "dormancy": "A cool-season (winter) grower that rests in peak summer — keep it drier and shadier through the hottest weeks.",
+    "feeding": "A dilute feed once or twice in the growing season.",
+    "potting": "Fast enough to need occasional repotting; pinch and replant to keep it full.",
+    "propagation": "Almost too easy — broken stems and even single leaves root readily.",
+    "bloom": "Tiny star-shaped cream flowers along the stems.",
+    "troubles": "Overwatering (especially warm-and-wet in summer) rots the stems; mealybugs otherwise.",
+    "toxicity": "Considered mildly toxic to cats and dogs if eaten."
+  },
+  "shots": [
+    {
+      "full": "images/babys-necklace.jpg",
+      "thumb": "images/babys-necklace-t.jpg",
+      "cap": "Baby's Necklace",
+      "date": "2026-07"
+    }
+  ]
+}
