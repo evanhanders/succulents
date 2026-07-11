@@ -144,10 +144,17 @@ Add a form → add one CSS rule. Keep forms to 1–2 per species so cards stay c
 1. `slug` = kebab-case of the common name (e.g. `blue-chalk-sticks`).
 2. `mkdir -p species/<slug>/images`.
 3. Add the owner's photos to `species/<slug>/images/`. Convention: full image `<name>.jpg`
-   (resize longest side to ≤ ~1600px) and a thumbnail `<name>-t.jpg` (~720×480, 3:2). The thumb
-   is optional — omit `thumb` and the card just loads the full image. If ImageMagick is present:
-   `magick in.jpg -resize 1600x1600\> full.jpg` and
-   `magick in.jpg -resize 720x480^ -gravity center -extent 720x480 name-t.jpg`.
+   (resize longest side to ≤ ~1600px) and a thumbnail `<name>-t.jpg` (longest side ≤ ~820px).
+   The thumb is optional — omit `thumb` and the card loads the full image. The card/hero use CSS
+   `object-fit: cover`, so thumbs don't need a fixed aspect ratio; just downscale, preserving
+   aspect. **This environment has no ImageMagick/`sips`** — use Python Pillow (already the tool
+   used to import the first collection):
+   ```python
+   from PIL import Image, ImageOps
+   im = ImageOps.exif_transpose(Image.open("in.jpg")).convert("RGB")  # honor phone orientation
+   full = im.copy(); full.thumbnail((1600,1600), Image.LANCZOS); full.save("name.jpg", quality=86, optimize=True)
+   th   = im.copy(); th.thumbnail((820,820),   Image.LANCZOS); th.save("name-t.jpg", quality=84, optimize=True)
+   ```
 4. Write `species/<slug>/species.json` (schema above). Give it the next free `dex` number.
 5. Add `"<slug>"` to the `species` array in `species/manifest.json`.
 6. Reload `dex.html` — the card appears; open it to check the detail sheet.
@@ -159,6 +166,16 @@ Add a form → add one CSS rule. Keep forms to 1–2 per species so cards stay c
 3. Write `journal/<slug>/entry.json` (schema above).
 4. **Prepend** `"<slug>"` to the `entries` array in `journal/manifest.json` (newest first).
 5. Reload `journal.html`.
+
+**Photo scope per entry.** Match the number of photos to the event: a repot or a single new
+plant → just those few shots; a "state of the collection" post → the full set (the first entry,
+`2026-07-new-office-shelves`, shows the shelf plus a captioned photo of every plant). Entry
+photos live in the entry's own `images/` folder even when the same plant already has a dex photo
+— entries are self-contained, so copy the shot in rather than reaching into `species/`.
+
+**Linking species.** List dex slugs in the entry's `species` array to render auto-linked chips
+(with dex number) at the foot of the entry — but only slugs that already exist in the dex, or the
+chip links to a missing page. Add the plant to the dex first, then link it.
 
 ## Deploy (GitHub Pages)
 
