@@ -159,6 +159,22 @@ Add a form → add one CSS rule. Keep forms to 1–2 per species so cards stay c
 5. Add `"<slug>"` to the `species` array in `species/manifest.json`.
 6. Reload `dex.html` — the card appears; open it to check the detail sheet.
 
+## Workflow: adding photos to an existing species
+
+When new photos of a plant already in the dex arrive (a bloom, a repot, size progression):
+
+1. Process each with the Pillow snippet above into that species' `species/<slug>/images/` folder
+   (full `<name>.jpg` + thumb `<name>-t.jpg`).
+2. Append a shot object to the species' `shots` array:
+   `{ "full": "images/<name>.jpg", "thumb": "images/<name>-t.jpg", "cap": "…", "date": "YYYY-MM" }`.
+   The **first** entry in `shots` is the card thumbnail and the photo the reel opens on — put the
+   best hero shot first; later shots become extra reel frames (swipe/tap dots) and set the
+   "N photos" count on the detail page.
+3. Reload the species page — no manifest change needed (the record is already listed).
+
+The same append pattern adds photos to a **journal entry**: drop the processed files in that
+entry's `images/` folder and append shot objects to its `shots` array.
+
 ## Workflow: adding a journal entry
 
 1. `slug` like `2026-07-first-repotting` (date-prefixed keeps them tidy on disk).
