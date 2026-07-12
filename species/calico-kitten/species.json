@@ -31,9 +31,26 @@
     "feeding": "A dilute feed once or twice in the growing season.",
     "potting": "Nice in a hanging pot; trim and replant cuttings to keep it full.",
     "propagation": "Stem and leaf cuttings root easily.",
-    "bloom": "Small white star flowers.",
+    "bloom": "Tiny starry white flowers in summer.",
     "troubles": "Scorch on the variegated leaves in too much sun, rot from overwatering, and mealybugs.",
     "toxicity": "Considered mildly toxic to cats and dogs if eaten."
+  },
+  "sources": [
+    { "title": "Crassula pellucida subsp. marginalis (Calico Kitten) — RHS", "url": "https://www.rhs.org.uk/plants/89703/crassula-pellucida-subsp-marginalis/details", "pub": "Royal Horticultural Society" },
+    { "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant", "pub": "ASPCA" }
+  ],
+  "care_refs": {
+    "light": [1],
+    "water": [1],
+    "soil": [1],
+    "temperature": [1],
+    "dormancy": [1],
+    "feeding": [1],
+    "potting": [1],
+    "propagation": [1],
+    "bloom": [1],
+    "troubles": [1],
+    "toxicity": [2]
   },
   "shots": [
     {

@@ -31,6 +31,24 @@
     "troubles": "Its size makes it unforgiving of overwatering; keep an eye out for damping-off and mealybugs.",
     "toxicity": "Considered mildly toxic to cats and dogs if eaten."
   },
+  "sources": [
+    { "title": "Crassula perforata (String of Buttons) — genus Crassula care, RHS", "url": "https://www.rhs.org.uk/plants/4744/crassula-perforata/details", "pub": "Royal Horticultural Society" },
+    { "title": "Crassula cv. Baby Necklace — LLIFLE Encyclopedia of Succulents", "url": "https://llifle.com/Encyclopedia/SUCCULENTS/Family/Crassulaceae/32159/Crassula_cv._Baby_Necklace", "pub": "LLIFLE" },
+    { "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant", "pub": "ASPCA" }
+  ],
+  "care_refs": {
+    "light": [1],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1],
+    "dormancy": [2],
+    "feeding": [1],
+    "potting": [1, 2],
+    "propagation": [1, 2],
+    "bloom": [1],
+    "troubles": [1, 2],
+    "toxicity": [3]
+  },
   "shots": [
     {
       "full": "images/mini-crassula.jpg",

@@ -30,9 +30,27 @@
     "feeding": "Barely feeds; a very dilute feed once in the growing season at most.",
     "potting": "Slow-growing and happy snug; repot infrequently into fresh gritty mix.",
     "propagation": "From stem cuttings or leaves, allowed to callus before setting on dry mix.",
-    "bloom": "Small pale flowers clustered at the stem tips.",
+    "bloom": "Small pale flowers cluster at the stem tips, appearing mainly in winter.",
     "troubles": "Summer rot from warmth-plus-water is the classic mistake; mealybugs otherwise.",
     "toxicity": "Like other Crassula, considered mildly toxic to cats and dogs if eaten."
+  },
+  "sources": [
+    { "title": "Crassula deceptor — LLIFLE Encyclopedia of Succulents", "url": "https://www.llifle.com/Encyclopedia/SUCCULENTS/Family/Crassulaceae/12127/Crassula_deceptor", "pub": "LLIFLE" },
+    { "title": "Crassula perforata (String of Buttons) — genus Crassula care", "url": "https://www.rhs.org.uk/plants/4744/crassula-perforata/details", "pub": "Royal Horticultural Society" },
+    { "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant", "pub": "ASPCA" }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [2],
+    "dormancy": [1],
+    "feeding": [2],
+    "potting": [1, 2],
+    "propagation": [1, 2],
+    "bloom": [1],
+    "troubles": [1],
+    "toxicity": [3]
   },
   "shots": [
     {

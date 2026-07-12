@@ -31,9 +31,27 @@
     "feeding": "A dilute feed once or twice while growing.",
     "potting": "Repot as it lengthens; cut back leggy stems to keep it bushy.",
     "propagation": "Stem cuttings root very easily — lay a piece on dry mix.",
-    "bloom": "Small pale star flowers clustered near the stem tips.",
-    "troubles": "Legginess in low light and rot from summer overwatering; mealybugs.",
-    "toxicity": "Considered mildly toxic to cats and dogs if eaten."
+    "bloom": "Small pale-yellow star flowers cluster near the stem tips in spring.",
+    "troubles": "Legginess in low light and root rot from overwatering; watch for mealybugs, aphids, and vine weevils.",
+    "toxicity": "Like other Crassula, mildly toxic to cats and dogs if eaten; the sap can also irritate skin, so handle cuttings with a little care."
+  },
+  "sources": [
+    { "title": "Crassula perforata (Necklace Vine, String of Buttons) — NC State Extension Gardener Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/crassula-perforata/", "pub": "NC State Extension" },
+    { "title": "Crassula perforata (String of Buttons) — RHS", "url": "https://www.rhs.org.uk/plants/4744/crassula-perforata/details", "pub": "Royal Horticultural Society" },
+    { "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant", "pub": "ASPCA" }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1, 2],
+    "dormancy": [2],
+    "feeding": [2],
+    "potting": [1, 2],
+    "propagation": [1, 2],
+    "bloom": [1, 2],
+    "troubles": [1, 2],
+    "toxicity": [1, 3]
   },
   "shots": [
     {

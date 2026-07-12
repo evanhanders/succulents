@@ -25,16 +25,34 @@
   "acquired": "2026-07",
   "care": {
     "light": "Bright light with some direct sun keeps the beads tight and edged in red; in low light the stacks loosen and green out.",
-    "water": "Soak-and-dry — a good drink, then fully dry before the next. It grows in the cooler months, so water more freely then and back off in summer heat.",
+    "water": "Soak-and-dry — a good drink, then fully dry before the next. Water freely while it's in growth, ease off through the peak heat of summer (when it rests), and keep it sparing in deep winter — just enough that the beads don't shrivel.",
     "soil": "A gritty, fast-draining mix.",
     "temperature": "Room temperature; keep above freezing.",
     "dormancy": "A cool-season (winter) grower that rests in peak summer — keep it drier and shadier through the hottest weeks.",
     "feeding": "A dilute feed once or twice in the growing season.",
     "potting": "Fast enough to need occasional repotting; pinch and replant to keep it full.",
     "propagation": "Almost too easy — broken stems and even single leaves root readily.",
-    "bloom": "Tiny star-shaped cream flowers along the stems.",
+    "bloom": "Tiny star-shaped white flowers along the stems in late spring to early summer.",
     "troubles": "Overwatering (especially warm-and-wet in summer) rots the stems; mealybugs otherwise.",
     "toxicity": "Considered mildly toxic to cats and dogs if eaten."
+  },
+  "sources": [
+    { "title": "Crassula 'Baby's Necklace' — RHS", "url": "https://www.rhs.org.uk/plants/327923/crassula-baby-s-necklace/details", "pub": "Royal Horticultural Society" },
+    { "title": "Crassula cv. Baby Necklace — LLIFLE Encyclopedia of Succulents", "url": "https://llifle.com/Encyclopedia/SUCCULENTS/Family/Crassulaceae/32159/Crassula_cv._Baby_Necklace", "pub": "LLIFLE" },
+    { "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant", "pub": "ASPCA" }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1, 2],
+    "dormancy": [2],
+    "feeding": [1],
+    "potting": [2],
+    "propagation": [1, 2],
+    "bloom": [2],
+    "troubles": [1, 2],
+    "toxicity": [3]
   },
   "shots": [
     {
