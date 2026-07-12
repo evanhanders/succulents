@@ -27,13 +27,72 @@
     "water": "Soak-and-dry — a good drink in warm growth, then dry before the next. Keep it dry through winter, and never let water sit in the folds of the crest.",
     "soil": "A gritty, fast-draining cactus mix.",
     "temperature": "Room temperature; keep above ~35°F and dry when cool.",
-    "dormancy": "A summer grower; rest it cool and dry in winter.",
+    "dormancy": "A summer grower; rest it cool and dry in winter — a genuinely cool, dry, bright winter rest is what coaxes an Echinopsis to flower well.",
     "feeding": "A dilute low-nitrogen cactus feed once or twice in summer.",
     "potting": "Repot infrequently; keep the mix low around the base so water drains away from the crest. Many crests are grafted — check the base.",
     "propagation": "By cutting and rooting a section of the crest (fiddly), or grafting; it may also throw normal (reverted) columnar growth to propagate from.",
     "bloom": "Hybrid Echinopsis are bred for big, showy, often fragrant flowers — a crest may still push the odd large bloom.",
     "troubles": "Rot from water trapped in the crest's folds; sunburn if rushed; mealybugs and spider mites.",
     "toxicity": "Non-toxic — but handle the spiny crest with care."
+  },
+  "sources": [
+    {
+      "title": "Echinopsis oxygona (Easter Lily Cactus) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/echinopsis-oxygona/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Echinopsis oxygona — Encyclopedia of Cacti",
+      "url": "https://www.llifle.com/Encyclopedia/CACTI/Family/Cactaceae/8376/Echinopsis_oxygona",
+      "pub": "LLIFLE"
+    },
+    {
+      "title": "How to Grow Cacti and Succulents (houseplants) — RHS Growing Guide",
+      "url": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide",
+      "pub": "Royal Horticultural Society"
+    }
+  ],
+  "care_refs": {
+    "light": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "soil": [
+      1,
+      2
+    ],
+    "temperature": [
+      1,
+      2
+    ],
+    "dormancy": [
+      2
+    ],
+    "feeding": [
+      2
+    ],
+    "propagation": [
+      1,
+      2
+    ],
+    "bloom": [
+      1,
+      2
+    ],
+    "troubles": [
+      1,
+      2
+    ],
+    "toxicity": [
+      1
+    ],
+    "potting": [
+      3
+    ]
   },
   "shots": [
     {

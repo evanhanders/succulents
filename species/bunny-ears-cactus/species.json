@@ -35,6 +35,66 @@
     "troubles": "The glochids are the main hazard to you; the plant itself mainly fears overwatering rot and cochineal scale (white cottony spots).",
     "toxicity": "Non-toxic to eat, but the tiny barbed glochids lodge in skin and are miserable to remove — keep it where pets and people won't brush it."
   },
+  "sources": [
+    {
+      "title": "Opuntia microdasys (Bunny Ears Cactus) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/opuntia-microdasys/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Opuntia microdasys — Encyclopedia of Cacti",
+      "url": "https://www.llifle.com/Encyclopedia/CACTI/Family/Cactaceae/15506/Opuntia_microdasys",
+      "pub": "LLIFLE"
+    },
+    {
+      "title": "How to Grow Cacti and Succulents (houseplants) — RHS Growing Guide",
+      "url": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide",
+      "pub": "Royal Horticultural Society"
+    }
+  ],
+  "care_refs": {
+    "light": [
+      1,
+      2
+    ],
+    "water": [
+      1,
+      2
+    ],
+    "soil": [
+      1,
+      2
+    ],
+    "temperature": [
+      1,
+      2
+    ],
+    "dormancy": [
+      2
+    ],
+    "potting": [
+      1,
+      2
+    ],
+    "propagation": [
+      1,
+      2
+    ],
+    "bloom": [
+      1,
+      2
+    ],
+    "troubles": [
+      1,
+      2
+    ],
+    "toxicity": [
+      1
+    ],
+    "feeding": [
+      3
+    ]
+  },
   "shots": [
     {
       "full": "images/bunny-ears-cactus.jpg",
