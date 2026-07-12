@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-12",
+  "title": "Some repotting and a newcomer",
+  "tags": ["repotting", "soil mix", "new plant"],
+  "species": [
+    "crassula-deceptor",
+    "propeller-plant",
+    "string-of-tears",
+    "ghost-plant"
+  ],
+  "body": [
+    "I've wanted to repot a few succulents for a few months and finally got around to it today. I wanted to make my own soil mix, so we stopped at the hardware store for some sand and pretty rocks to top the new pots with. While I was there I grabbed one more succulent — a 'string of things' — to replace another one of those I'd killed a few months back by overwatering.",
+    "The soil mix went something like this: start by mixing even parts grit (small rocks) with store-bought succulent mix. Then add sand, again about even parts sand and the mix from the step above. Mix well.",
+    "I started by pulling the plants out of their nursery pots — and found the Crassula deceptor had rotted out from below. We pulled the crowns off, cleaned the rotten bottoms away, and set them in dry sand to callous over. Maybe we can save them.",
+    "The other crassulas, the string of tears, and the windmill plant were all much healthier. We cleaned the old soil off the roots and dusted them with sexy plant juice (rooting hormone) to help fend off rot, potted them up, and watered them in. The decorative rocks on top look really good! Excited to see how they settle into their new homes."
+  ],
+  "shots": [
+    { "full": "images/repotted-row.jpg", "thumb": "images/repotted-row-t.jpg", "cap": "The finished lineup — fresh gritty mix, decorative river-rock top dressing, and everyone watered in." },
+    { "full": "images/potting-station.jpg", "thumb": "images/potting-station-t.jpg", "cap": "The potting station: grit, lava rock, sand, and store-bought succulent mix, plus the river rocks for topping." },
+    { "full": "images/crassula-deceptor.jpg", "thumb": "images/crassula-deceptor-t.jpg", "cap": "The Crassula deceptor crowns, rotted from below — cleaned up and set in dry sand to callous. Fingers crossed." },
+    { "full": "images/propeller-plant.jpg", "thumb": "images/propeller-plant-t.jpg", "cap": "Propeller Plant (Senecio crassissimus) in its new pot, purple-edged paddles and all." },
+    { "full": "images/string-of-tears.jpg", "thumb": "images/string-of-tears-t.jpg", "cap": "String of Tears (Curio citriformis) — healthy and freshly repotted." },
+    { "full": "images/windmill-plant.jpg", "thumb": "images/windmill-plant-t.jpg", "cap": "The little windmill plant (Ghost Plant, Graptopetalum) tucked into fresh mix and top-dressed." },
+    { "full": "images/crassula.jpg", "thumb": "images/crassula-t.jpg", "cap": "One of the other crassulas, roots cleaned and settled into the new gritty mix." },
+    { "full": "images/string-of-pearls.jpg", "thumb": "images/string-of-pearls-t.jpg", "cap": "The newcomer — a String of Pearls to replace the one I lost to overwatering. Take two." }
+  ]
+}
