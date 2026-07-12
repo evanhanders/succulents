@@ -33,6 +33,24 @@
     "troubles": "Rot from water trapped in the crest, plus mealybugs and red spider mites.",
     "toxicity": "Non-toxic — but the fine spines catch skin, so handle with care."
   },
+  "sources": [
+    { "title": "Mammillaria elongata — Encyclopedia of Cacti", "url": "https://www.llifle.com/Encyclopedia/CACTI/Family/Cactaceae/9106/Mammillaria_elongata", "pub": "LLIFLE" },
+    { "title": "Mammillaria (Pincushion Cactus) — Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/mammillaria/", "pub": "NC State Extension" },
+    { "title": "Mammillaria elongata (Ladyfinger Cactus) — Plant Guide", "url": "https://www.rhs.org.uk/plants/10815/mammillaria-elongata/details", "pub": "Royal Horticultural Society" }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2, 3],
+    "soil": [1, 2, 3],
+    "temperature": [1, 2],
+    "dormancy": [1, 2],
+    "feeding": [3],
+    "potting": [1, 2],
+    "propagation": [1, 2, 3],
+    "bloom": [1, 2],
+    "troubles": [1, 2],
+    "toxicity": [2]
+  },
   "shots": [
     {
       "full": "images/brain-cactus.jpg",

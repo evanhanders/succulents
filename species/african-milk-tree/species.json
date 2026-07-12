@@ -29,12 +29,30 @@
     "soil": "A gritty, fast-draining mix.",
     "temperature": "Warmth-loving — keep it above ~50°F; cold-and-wet together will rot it.",
     "dormancy": "A warm-season grower that mostly pauses in cool, low-light months.",
-    "feeding": "A dilute feed monthly through the warm growing season.",
+    "feeding": "A low-maintenance, undemanding feeder — a dilute feed through the warm growing season is all it needs, and none while it rests.",
     "potting": "Top-heavy as it climbs — a heavier pot helps. Repot in warm weather; wear gloves.",
     "propagation": "Stem cuttings root well — dry the milky latex and callus the cut first, and wear gloves.",
     "bloom": "Rarely flowers indoors; grown for the coloured stems, not blooms.",
     "troubles": "Rot from cold-and-wet; corking or scarring; mealybugs. The main hazard, though, is the sap.",
-    "toxicity": "The milky latex is a genuine irritant — toxic if eaten and nasty in eyes and on skin. Keep away from pets and children and handle with gloves."
+    "toxicity": "The milky latex is a genuine irritant — it raises a rash and blisters on skin and causes severe eye irritation on contact, and if eaten brings on gastroenteritis, vomiting, and worse. Like the rest of its genus it's toxic. Keep away from pets and children and always handle with gloves."
+  },
+  "sources": [
+    { "title": "Euphorbia trigona (African Milk Tree) — NC State Extension Gardener Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/euphorbia-trigona/", "pub": "NC State Extension" },
+    { "title": "Pencil Cactus (Euphorbia tirucalli, genus relative) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pencil-cactus", "pub": "ASPCA" },
+    { "title": "Euphorbia trigona (African Milk Tree) — Plant Finder", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280109", "pub": "Missouri Botanical Garden" }
+  ],
+  "care_refs": {
+    "light": [1, 3],
+    "water": [1, 3],
+    "soil": [1, 3],
+    "temperature": [1, 3],
+    "dormancy": [3],
+    "feeding": [1, 3],
+    "potting": [1, 3],
+    "propagation": [1, 3],
+    "bloom": [1, 3],
+    "troubles": [1, 3],
+    "toxicity": [1, 2, 3]
   },
   "shots": [
     {

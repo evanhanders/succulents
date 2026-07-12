@@ -36,6 +36,24 @@
     "troubles": "Rot from overwatering or cold-and-wet; sunburn if rushed into strong sun; mealybugs.",
     "toxicity": "Non-toxic — but the spines mean careful handling."
   },
+  "sources": [
+    { "title": "Parodia magnifica — Encyclopedia of Cacti", "url": "https://www.llifle.com/Encyclopedia/CACTI/Family/Cactaceae/20453/Parodia_magnifica", "pub": "LLIFLE" },
+    { "title": "Parodia (Ball Cactus) — Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/parodia/", "pub": "NC State Extension" },
+    { "title": "Parodia magnifica (Ball Cactus) — Plant Guide", "url": "https://www.rhs.org.uk/plants/236185/parodia-magnifica/details", "pub": "Royal Horticultural Society" }
+  ],
+  "care_refs": {
+    "light": [1, 2, 3],
+    "water": [1, 2, 3],
+    "soil": [1, 2, 3],
+    "temperature": [1, 2, 3],
+    "dormancy": [1, 2, 3],
+    "feeding": [3],
+    "potting": [2],
+    "propagation": [1, 2, 3],
+    "bloom": [1, 2, 3],
+    "troubles": [1, 2, 3],
+    "toxicity": [2]
+  },
   "shots": [
     {
       "full": "images/balloon-cactus.jpg",
