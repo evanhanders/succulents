@@ -34,7 +34,37 @@
     "propagation": "Easy from plump leaves and stem cuttings laid on dry mix.",
     "bloom": "Star-shaped orange-and-red flowers on short stalks in spring.",
     "troubles": "Overwatering (translucent, mushy leaves) is the main risk; mealybugs between the tight leaves.",
-    "toxicity": "Non-toxic and safe around pets."
+    "toxicity": "Graptopetalum is a pet-safe genus — NC State Extension lists its close relative ghost plant (G. paraguayense) as non-toxic to cats, dogs, and horses."
+  },
+  "sources": [
+    {
+      "title": "Graptopetalum amethystinum (jewel-leaf plant) — RHS",
+      "url": "https://www.rhs.org.uk/plants/8108/graptopetalum-amethystinum/details",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Graptopetalum paraguayense (Ghost Plant) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/graptopetalum-paraguayense/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Insect Pests of Cacti and Succulents Grown as House Plants",
+      "url": "https://www.missouribotanicalgarden.org/gardens-gardening/your-garden/help-for-the-home-gardener/advice-tips-resources/insects-pests-and-problems/insects/mealybugs/insect-pests-of-cacti-and-succulents",
+      "pub": "Missouri Botanical Garden"
+    }
+  ],
+  "care_refs": {
+    "light": [1],
+    "water": [1],
+    "soil": [1],
+    "temperature": [1],
+    "dormancy": [1],
+    "feeding": [1],
+    "potting": [1],
+    "propagation": [1, 2],
+    "bloom": [1],
+    "troubles": [3],
+    "toxicity": [2]
   },
   "shots": [
     {

@@ -35,9 +35,21 @@
     "toxicity": "Like other Crassula, considered mildly toxic to cats and dogs if eaten."
   },
   "sources": [
-    { "title": "Crassula deceptor — LLIFLE Encyclopedia of Succulents", "url": "https://www.llifle.com/Encyclopedia/SUCCULENTS/Family/Crassulaceae/12127/Crassula_deceptor", "pub": "LLIFLE" },
-    { "title": "Crassula perforata (String of Buttons) — genus Crassula care", "url": "https://www.rhs.org.uk/plants/4744/crassula-perforata/details", "pub": "Royal Horticultural Society" },
-    { "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant", "pub": "ASPCA" }
+    {
+      "title": "Crassula deceptor — LLIFLE Encyclopedia of Succulents",
+      "url": "https://www.llifle.com/Encyclopedia/SUCCULENTS/Family/Crassulaceae/12127/Crassula_deceptor",
+      "pub": "LLIFLE"
+    },
+    {
+      "title": "Crassula perforata (String of Buttons) — genus Crassula care",
+      "url": "https://www.rhs.org.uk/plants/4744/crassula-perforata/details",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant",
+      "pub": "ASPCA"
+    }
   ],
   "care_refs": {
     "light": [1, 2],

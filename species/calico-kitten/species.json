@@ -36,8 +36,16 @@
     "toxicity": "Considered mildly toxic to cats and dogs if eaten."
   },
   "sources": [
-    { "title": "Crassula pellucida subsp. marginalis (Calico Kitten) — RHS", "url": "https://www.rhs.org.uk/plants/89703/crassula-pellucida-subsp-marginalis/details", "pub": "Royal Horticultural Society" },
-    { "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant", "pub": "ASPCA" }
+    {
+      "title": "Crassula pellucida subsp. marginalis (Calico Kitten) — RHS",
+      "url": "https://www.rhs.org.uk/plants/89703/crassula-pellucida-subsp-marginalis/details",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant",
+      "pub": "ASPCA"
+    }
   ],
   "care_refs": {
     "light": [1],

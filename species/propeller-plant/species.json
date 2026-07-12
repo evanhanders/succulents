@@ -14,7 +14,7 @@
   ],
   "provisional": true,
   "blurb": "Flat, blue-grey leaves held edge-on to the sun and rimmed in purple, angled like little propeller blades up an upright stem. The purple edging deepens the brighter you grow it.",
-  "growth_season": "Summer",
+  "growth_season": "Winter",
   "size": "Upright to ~8–12 in",
   "light": "Full sun to bright",
   "water": "Soak & dry",
@@ -24,16 +24,41 @@
   "acquired": "2026-07",
   "care": {
     "light": "Full sun to very bright light gives the strongest purple leaf margins and a compact, upright habit; in low light it stretches and greens out.",
-    "water": "Soak-and-dry, letting the mix dry fully between waterings; markedly less in winter.",
+    "water": "Soak-and-dry, letting the mix dry fully between waterings; ease right back through its summer rest.",
     "soil": "A gritty, fast-draining mix.",
-    "temperature": "Room temperature; keep above freezing.",
-    "dormancy": "A warm-season grower that rests in winter — keep it drier and brighter then.",
+    "temperature": "Room temperature; keep above freezing — it's tender and turns mushy in the cold (hardy outdoors only to about Zone 9).",
+    "dormancy": "A cool-season grower, oddly enough: it does most of its growing through the milder months and rests in the heat of high summer, so keep it bright and on the dry side during the hottest weeks.",
     "feeding": "A dilute feed once or twice through spring and summer.",
     "potting": "Repot every year or two; cut back and re-root to keep it from getting leggy.",
     "propagation": "Stem cuttings root easily after a day or two to callus.",
     "bloom": "Small yellow-orange daisy-like flower heads on tall stalks.",
     "troubles": "Legginess in low light and rot from overwatering; aphids and mealybugs.",
-    "toxicity": "Senecios are toxic to cats and dogs if eaten — best kept out of reach."
+    "toxicity": "Senecios are toxic to cats and dogs if eaten — the leaves carry pyrrolizidine alkaloids — so best kept out of reach."
+  },
+  "sources": [
+    {
+      "title": "Senecio crassissimus (Propeller Plant) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/senecio-crassissimus/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Groundsel (Senecio spp.) — ASPCA Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/groundsel",
+      "pub": "ASPCA"
+    }
+  ],
+  "care_refs": {
+    "light": [1],
+    "water": [1],
+    "soil": [1],
+    "temperature": [1],
+    "dormancy": [1],
+    "feeding": [1],
+    "potting": [1],
+    "propagation": [1],
+    "bloom": [1],
+    "troubles": [1],
+    "toxicity": [1, 2]
   },
   "shots": [
     {

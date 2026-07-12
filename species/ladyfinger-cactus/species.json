@@ -37,9 +37,21 @@
     "toxicity": "Non-toxic — but the fine spines catch skin, so handle with care."
   },
   "sources": [
-    { "title": "Mammillaria elongata — Encyclopedia of Cacti", "url": "https://www.llifle.com/Encyclopedia/CACTI/Family/Cactaceae/9106/Mammillaria_elongata", "pub": "LLIFLE" },
-    { "title": "Mammillaria (Pincushion Cactus) — Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/mammillaria/", "pub": "NC State Extension" },
-    { "title": "Mammillaria elongata (Ladyfinger Cactus) — Plant Guide", "url": "https://www.rhs.org.uk/plants/10815/mammillaria-elongata/details", "pub": "Royal Horticultural Society" }
+    {
+      "title": "Mammillaria elongata — Encyclopedia of Cacti",
+      "url": "https://www.llifle.com/Encyclopedia/CACTI/Family/Cactaceae/9106/Mammillaria_elongata",
+      "pub": "LLIFLE"
+    },
+    {
+      "title": "Mammillaria (Pincushion Cactus) — Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/mammillaria/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Mammillaria elongata (Ladyfinger Cactus) — Plant Guide",
+      "url": "https://www.rhs.org.uk/plants/10815/mammillaria-elongata/details",
+      "pub": "Royal Horticultural Society"
+    }
   ],
   "care_refs": {
     "light": [1, 2],

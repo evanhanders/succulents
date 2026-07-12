@@ -28,7 +28,7 @@
     "soil": "A fast-draining cactus/succulent mix — roughly one part coarse sand or perlite to two parts potting soil. Standing wet is what kills it.",
     "temperature": "Ordinary room warmth, around 60–80°F. It shrugs off brief cool spells but isn't frost-hardy — keep it above ~50°F and out of frost (hardy outdoors only in Zones 9–11).",
     "dormancy": "Does most of its growing in the milder spring and autumn, with a rest in the hottest weeks; give it a cooler, drier winter too or it puts out thin, weak growth that spoils the rosette's shape.",
-    "feeding": "Very little — a dilute feed only during active growth, and skip it while the plant is resting. Don't feed a freshly potted one for its first year.",
+    "feeding": "Very little — a dilute high-potash or specialist cactus feed no more than monthly through the spring-to-autumn growing season, and none while it's resting.",
     "potting": "Slow and happy snug; repot every 2–3 years into fresh gritty mix in a pot with good drainage, mainly to divide the clump of offsets.",
     "propagation": "Easiest by twisting off rooted offsets from around the base; leaf cuttings work too, but it rarely comes from seed.",
     "bloom": "A wiry stalk lifts small tubular pale-pink flowers in loose clusters well above the rosette in late spring to early summer; it doesn't die after flowering.",
@@ -36,9 +36,26 @@
     "toxicity": "Non-toxic and safe around cats and dogs (ASPCA-listed) — though no plant is meant to be a snack."
   },
   "sources": [
-    { "title": "Haworthiopsis attenuata (Zebra Haworthia) — NC State Extension Gardener Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/haworthiopsis-attenuata/", "pub": "NC State Extension" },
-    { "title": "Haworthia — Plant Guide", "url": "https://www.rhs.org.uk/plants/haworthia", "pub": "Royal Horticultural Society" },
-    { "title": "Zebra Haworthia — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/zebra-haworthia", "pub": "ASPCA" }
+    {
+      "title": "Haworthiopsis attenuata (Zebra Haworthia) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/haworthiopsis-attenuata/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Haworthia — Plant Guide",
+      "url": "https://www.rhs.org.uk/plants/haworthia",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Zebra Haworthia — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/zebra-haworthia",
+      "pub": "ASPCA"
+    },
+    {
+      "title": "How to Grow Cacti and Succulents (houseplants) — RHS Growing Guide",
+      "url": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide",
+      "pub": "Royal Horticultural Society"
+    }
   ],
   "care_refs": {
     "light": [1],
@@ -46,8 +63,8 @@
     "soil": [1, 2],
     "temperature": [1, 2],
     "dormancy": [2],
-    "feeding": [2],
-    "potting": [2],
+    "feeding": [4],
+    "potting": [4],
     "propagation": [1],
     "bloom": [1],
     "troubles": [1],

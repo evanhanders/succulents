@@ -37,9 +37,21 @@
     "toxicity": "Considered mildly toxic to cats and dogs if eaten."
   },
   "sources": [
-    { "title": "Crassula 'Baby's Necklace' — RHS", "url": "https://www.rhs.org.uk/plants/327923/crassula-baby-s-necklace/details", "pub": "Royal Horticultural Society" },
-    { "title": "Crassula cv. Baby Necklace — LLIFLE Encyclopedia of Succulents", "url": "https://llifle.com/Encyclopedia/SUCCULENTS/Family/Crassulaceae/32159/Crassula_cv._Baby_Necklace", "pub": "LLIFLE" },
-    { "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant", "pub": "ASPCA" }
+    {
+      "title": "Crassula 'Baby's Necklace' — RHS",
+      "url": "https://www.rhs.org.uk/plants/327923/crassula-baby-s-necklace/details",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Crassula cv. Baby Necklace — LLIFLE Encyclopedia of Succulents",
+      "url": "https://llifle.com/Encyclopedia/SUCCULENTS/Family/Crassulaceae/32159/Crassula_cv._Baby_Necklace",
+      "pub": "LLIFLE"
+    },
+    {
+      "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant",
+      "pub": "ASPCA"
+    }
   ],
   "care_refs": {
     "light": [1, 2],

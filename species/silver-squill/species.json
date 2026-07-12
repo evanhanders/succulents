@@ -31,9 +31,34 @@
     "feeding": "A dilute feed once or twice during active growth.",
     "potting": "It clumps quickly into a mat of bulbs; repot or divide every couple of years, leaving the bulbs proud.",
     "propagation": "Simply separate offset bulbs from the clump — they establish fast.",
-    "bloom": "Slender spikes of small green-and-purple bell flowers.",
-    "troubles": "Overwatering rots the bulbs; otherwise largely pest-free, with the odd mealybug.",
-    "toxicity": "Ledebouria is toxic to cats and dogs if eaten — keep it out of reach."
+    "bloom": "Slender spikes of small greenish-white bell flowers on pink stems, mostly in spring.",
+    "troubles": "Overwatering rots the bulbs; otherwise largely pest-free, with the odd mealybug — watch also for aphids, spider mites and scale.",
+    "toxicity": "Toxic to cats and dogs if eaten — it contains oxalic acid, and ingestion can cause vomiting and worse — so keep it out of reach; the sap can also irritate skin."
+  },
+  "sources": [
+    {
+      "title": "Ledebouria socialis (Silver Squill) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/ledebouria-socialis/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Ledebouria socialis — Encyclopedia of Bulbs",
+      "url": "https://llifle.com/Encyclopedia/BULBS/Family/Hyacinthaceae/11610/Ledebouria_socialis",
+      "pub": "LLIFLE — Encyclopedia of Living Forms"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1, 2],
+    "dormancy": [1],
+    "feeding": [2],
+    "potting": [1, 2],
+    "propagation": [1, 2],
+    "bloom": [1],
+    "troubles": [1],
+    "toxicity": [1]
   },
   "shots": [
     {

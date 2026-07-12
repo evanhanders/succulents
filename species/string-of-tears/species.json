@@ -30,9 +30,34 @@
     "feeding": "A dilute feed once or twice in the growing season.",
     "potting": "Lovely trailing from a raised pot; lay stray strands on the soil and they root to fill in.",
     "propagation": "Very easy — coil a strand onto dry mix and the nodes root.",
-    "bloom": "Small white brush-like flowers with a light cinnamon scent.",
+    "bloom": "Tiny pale-yellowish brush-like flowers, clustered on short stalks from late summer into winter.",
     "troubles": "Overwatering and rot are the main risks, plus the occasional aphid or mealybug.",
-    "toxicity": "Like other senecios, toxic to cats and dogs if eaten."
+    "toxicity": "Like other senecios, toxic to cats and dogs if eaten — the fleshy leaves are poisonous, so keep it out of reach."
+  },
+  "sources": [
+    {
+      "title": "Curio citriformis (String of Tears) — LLIFLE Encyclopedia of Succulents",
+      "url": "https://www.llifle.com/Encyclopedia/SUCCULENTS/Family/Asteraceae/27677/Curio_citriformis",
+      "pub": "LLIFLE"
+    },
+    {
+      "title": "Groundsel (Senecio spp.) — ASPCA Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/groundsel",
+      "pub": "ASPCA"
+    }
+  ],
+  "care_refs": {
+    "light": [1],
+    "water": [1],
+    "soil": [1],
+    "temperature": [1],
+    "dormancy": [1],
+    "feeding": [1],
+    "potting": [1],
+    "propagation": [1],
+    "bloom": [1],
+    "troubles": [1],
+    "toxicity": [1, 2]
   },
   "shots": [
     {

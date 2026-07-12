@@ -26,16 +26,51 @@
   "acquired": "2026-07",
   "care": {
     "light": "Bright light with several hours of direct sun keeps them squat and patterned; too little and the bodies stretch tall and pale and lose their stone shape.",
-    "water": "The whole game is timing. Water lightly in autumn and spring growth; keep them completely dry through summer dormancy and while the old leaves shrivel and the new pair emerges in winter. When in doubt, don't water.",
+    "water": "The whole game is timing, and it follows the plant's own leaf-renewal cycle. Water in the cooler growing spells — autumn and spring — with a good soak, then let it dry right out between; keep it bone dry through the peak of summer. The rule that matters: stop watering once it flowers in autumn, and keep it completely dry all winter while the fused new body forms inside and draws the old pair down to papery shells. Don't water again until those old leaves have fully dried and the new pair has emerged — usually late spring. When in doubt, don't water.",
     "soil": "A very gritty, mostly-mineral mix in a deeper pot for the taproot.",
     "temperature": "Room temperature; keep above ~40°F and bone dry when cool.",
-    "dormancy": "Reverse of most succulents — they grow in the cool months and rest in summer heat. Never water during the winter leaf-swap: the new body lives off the old one.",
+    "dormancy": "Their rhythm runs against the leafy succulents: they grow in the cooler spells and rest through the hottest weeks of summer, then again through winter, when the new body renews itself. Never water during that winter leaf-swap — the new plantlet lives off the old leaf pair, absorbing it down to a dry shell, and water then just rots or bloats it.",
     "feeding": "Essentially none; a very dilute low-nitrogen feed at most, once in autumn.",
-    "potting": "They resent disturbance and go years between repots; a deep pot suits the taproot.",
+    "potting": "They resent disturbance and go years between repots; when you do, use a fresh open, mostly-mineral, fast-draining mix.",
     "propagation": "From seed (slow), or by dividing established clumps.",
     "bloom": "A daisy-like white or yellow flower squeezes out from the central slit in autumn.",
-    "troubles": "Overwatering — especially out of season — is fatal; watch for a body that goes translucent and mushy.",
-    "toxicity": "Non-toxic and safe around pets."
+    "troubles": "Overwatering — especially out of season — is fatal; watch for a body that goes translucent and mushy, splits, or spots, and for the odd spider mite or mealybug.",
+    "toxicity": "Non-toxic and safe around cats and dogs (ASPCA lists Living Stones / Lithops as non-toxic)."
+  },
+  "sources": [
+    {
+      "title": "Lithops (Living Stones) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/lithops/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Lithops (living stone) — Plant Guide",
+      "url": "https://www.rhs.org.uk/plants/10366/lithops-karasmontana/details",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Lithops — Encyclopedia of Succulents",
+      "url": "https://www.llifle.com/Encyclopedia/SUCCULENTS/Family/Aizoaceae/12138/Lithops_karasmontana",
+      "pub": "LLIFLE — Encyclopedia of Living Forms"
+    },
+    {
+      "title": "Living Stones (Lithops) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/living-stones",
+      "pub": "ASPCA"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2, 3],
+    "water": [1, 2, 3],
+    "soil": [1, 2, 3],
+    "temperature": [1, 2],
+    "dormancy": [1, 3],
+    "feeding": [3],
+    "potting": [3],
+    "propagation": [1, 3],
+    "bloom": [1],
+    "troubles": [1],
+    "toxicity": [1, 4]
   },
   "shots": [
     {

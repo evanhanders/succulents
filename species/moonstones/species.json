@@ -27,12 +27,42 @@
     "soil": "A fast-draining gritty mix; those water-filled leaves rot quickly in anything that stays damp.",
     "temperature": "Comfortable at room temperature; keep it above freezing and bring it in well before frost.",
     "dormancy": "Grows mainly in the milder parts of the year; ease off water in the hottest peak of summer and in deep winter.",
-    "feeding": "A quarter-strength cactus feed once or twice in the growing season is plenty.",
+    "feeding": "A dilute, low-nitrogen feed every 6–8 weeks through spring and summer is plenty.",
     "potting": "Snug pots are fine; repot every couple of years. Handle by the stem — fingerprints in the farina are permanent until the leaf is replaced.",
     "propagation": "Very easy from a gently twisted-off leaf laid on dry mix, and from offsets.",
     "bloom": "Arching stalks of red-orange bell flowers peeking from between colourful bracts in late winter to spring.",
     "troubles": "Overwatering (translucent, mushy leaves) is the main risk; mealybugs hide between the tight leaves.",
-    "toxicity": "Non-toxic and considered safe around cats and dogs."
+    "toxicity": "Pachyphytum isn't listed individually by the ASPCA, but it's a Crassulaceae relative of the pet-safe echeverias — considered non-toxic and safe around cats and dogs."
+  },
+  "sources": [
+    {
+      "title": "Pachyphytum oviferum (moonstones) — RHS",
+      "url": "https://www.rhs.org.uk/plants/12090/pachyphytum-oviferum/details",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Blue Echeveria (Echeveria glauca), a pet-safe Crassulaceae — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/blue-echeveria",
+      "pub": "ASPCA"
+    },
+    {
+      "title": "Insect Pests of Cacti and Succulents Grown as House Plants",
+      "url": "https://www.missouribotanicalgarden.org/gardens-gardening/your-garden/help-for-the-home-gardener/advice-tips-resources/insects-pests-and-problems/insects/mealybugs/insect-pests-of-cacti-and-succulents",
+      "pub": "Missouri Botanical Garden"
+    }
+  ],
+  "care_refs": {
+    "light": [1],
+    "water": [1],
+    "soil": [1],
+    "temperature": [1],
+    "dormancy": [1],
+    "feeding": [1],
+    "potting": [1],
+    "propagation": [1],
+    "bloom": [1],
+    "troubles": [1, 3],
+    "toxicity": [2]
   },
   "shots": [
     {

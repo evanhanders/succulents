@@ -32,9 +32,21 @@
     "toxicity": "Non-toxic — but the stout spines mean careful handling."
   },
   "sources": [
-    { "title": "Ferocactus emoryi — Encyclopedia of Cacti", "url": "https://www.llifle.com/Encyclopedia/CACTI/Family/Cactaceae/21495/Ferocactus_emoryi", "pub": "LLIFLE" },
-    { "title": "Ferocactus (Barrel Cactus) — Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/ferocactus/", "pub": "NC State Extension" },
-    { "title": "Ferocactus — Plant Guide", "url": "https://www.rhs.org.uk/plants/ferocactus", "pub": "Royal Horticultural Society" }
+    {
+      "title": "Ferocactus emoryi — Encyclopedia of Cacti",
+      "url": "https://www.llifle.com/Encyclopedia/CACTI/Family/Cactaceae/21495/Ferocactus_emoryi",
+      "pub": "LLIFLE"
+    },
+    {
+      "title": "Ferocactus (Barrel Cactus) — Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/ferocactus/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Ferocactus — Plant Guide",
+      "url": "https://www.rhs.org.uk/plants/ferocactus",
+      "pub": "Royal Horticultural Society"
+    }
   ],
   "care_refs": {
     "light": [1, 2, 3],

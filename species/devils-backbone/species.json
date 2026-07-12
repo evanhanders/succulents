@@ -37,9 +37,21 @@
     "toxicity": "The milky latex is a genuine irritant — a mild-to-severe contact dermatitis on skin, capable of corneal damage in the eyes, and blistering of the lips and mouth if chewed. Like the rest of its genus it's toxic if eaten. Keep it away from pets and children and handle with gloves."
   },
   "sources": [
-    { "title": "Euphorbia tithymaloides (Devil's Backbone) — NC State Extension Gardener Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/euphorbia-tithymaloides/", "pub": "NC State Extension" },
-    { "title": "Pencil Cactus (Euphorbia tirucalli, genus relative) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pencil-cactus", "pub": "ASPCA" },
-    { "title": "Pedilanthus tithymaloides (Redbird Flower / Devil's Backbone) — Plant Finder", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280094", "pub": "Missouri Botanical Garden" }
+    {
+      "title": "Euphorbia tithymaloides (Devil's Backbone) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia-tithymaloides/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Pencil Cactus (Euphorbia tirucalli, genus relative) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pencil-cactus",
+      "pub": "ASPCA"
+    },
+    {
+      "title": "Pedilanthus tithymaloides (Redbird Flower / Devil's Backbone) — Plant Finder",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280094",
+      "pub": "Missouri Botanical Garden"
+    }
   ],
   "care_refs": {
     "light": [1, 3],

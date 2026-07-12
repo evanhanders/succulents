@@ -34,7 +34,42 @@
     "propagation": "Stem-tip cuttings root easily — let the cut callus a day or two, then set in dry mix.",
     "bloom": "Rosettes are monocarpic — an individual rosette that flowers then dies, but the branching plant carries on from its other heads.",
     "troubles": "Summer overwatering rot, scorch in harsh sun, and legginess in low light; watch for aphids on new growth.",
-    "toxicity": "Non-toxic and considered safe around cats and dogs."
+    "toxicity": "Aeonium isn't listed individually by the ASPCA, but it's a Crassulaceae relative of the pet-safe echeverias — considered non-toxic and safe around cats and dogs."
+  },
+  "sources": [
+    {
+      "title": "Aeonium haworthii 'Kiwi' (pinwheel 'Kiwi') — RHS",
+      "url": "https://www.rhs.org.uk/plants/346092/aeonium-haworthii-kiwi/details",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Aeonium (Tree Houseleek) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/aeonium/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Aeonium arboreum — Encyclopedia of Succulents (summer dormancy / winter growth)",
+      "url": "https://llifle.com/Encyclopedia/SUCCULENTS/Family/Crassulaceae/149/Aeonium_arboreum",
+      "pub": "LLIFLE"
+    },
+    {
+      "title": "Blue Echeveria (Echeveria glauca), a pet-safe Crassulaceae — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/blue-echeveria",
+      "pub": "ASPCA"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 3],
+    "soil": [1, 2],
+    "temperature": [1, 2],
+    "dormancy": [3],
+    "feeding": [1],
+    "potting": [1],
+    "propagation": [1, 3],
+    "bloom": [2],
+    "troubles": [1],
+    "toxicity": [4]
   },
   "shots": [
     {

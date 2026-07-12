@@ -30,7 +30,42 @@
     "propagation": "By offsets from the base.",
     "bloom": "Small white tubular flowers on a slender stalk.",
     "troubles": "Overwatering rot; the occasional mealybug.",
-    "toxicity": "Non-toxic and pet-safe."
+    "toxicity": "Non-toxic and safe around cats and dogs (ASPCA lists Haworthia as non-toxic) — though no plant is meant to be a snack."
+  },
+  "sources": [
+    {
+      "title": "Haworthia — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/haworthia/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Haworthia — Plant Guide",
+      "url": "https://www.rhs.org.uk/plants/haworthia",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Haworthia — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/haworthia",
+      "pub": "ASPCA"
+    },
+    {
+      "title": "How to Grow Cacti and Succulents (houseplants) — RHS Growing Guide",
+      "url": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide",
+      "pub": "Royal Horticultural Society"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1, 2],
+    "dormancy": [2],
+    "potting": [4],
+    "propagation": [1, 2],
+    "bloom": [1],
+    "troubles": [1],
+    "toxicity": [3],
+    "feeding": [4]
   },
   "shots": [
     {

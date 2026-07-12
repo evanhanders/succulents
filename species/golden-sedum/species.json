@@ -32,9 +32,44 @@
     "feeding": "A dilute feed once or twice through spring and summer.",
     "potting": "Repot every couple of years; pinch back leggy stems to keep it full.",
     "propagation": "Very easy from dropped leaves and stem cuttings laid on dry mix.",
-    "bloom": "Small yellow star flowers in clusters in the warmer months.",
+    "bloom": "Clusters of small, star-shaped white flowers in the warmer months (spring into summer).",
     "troubles": "Overwatering rot and etiolation (stretching, colour loss) in low light; mealybugs.",
-    "toxicity": "Non-toxic and safe around cats and dogs."
+    "toxicity": "Sedum is a pet-safe genus — the ASPCA lists Sedum relatives such as burro's tail (S. morganianum) as non-toxic to cats and dogs (and horses)."
+  },
+  "sources": [
+    {
+      "title": "Sedum (Stonecrop) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/sedum/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Sedum nussbaumerianum (coppertone stonecrop) — RHS",
+      "url": "https://www.rhs.org.uk/plants/60015/sedum-nussbaumerianum/details",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Burro's Tail (Sedum morganianum) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/burros-tail",
+      "pub": "ASPCA"
+    },
+    {
+      "title": "Insect Pests of Cacti and Succulents Grown as House Plants",
+      "url": "https://www.missouribotanicalgarden.org/gardens-gardening/your-garden/help-for-the-home-gardener/advice-tips-resources/insects-pests-and-problems/insects/mealybugs/insect-pests-of-cacti-and-succulents",
+      "pub": "Missouri Botanical Garden"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [2],
+    "dormancy": [2],
+    "feeding": [2],
+    "potting": [2],
+    "propagation": [1, 2],
+    "bloom": [2],
+    "troubles": [1, 4],
+    "toxicity": [3]
   },
   "shots": [
     {

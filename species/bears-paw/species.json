@@ -32,7 +32,32 @@
     "propagation": "Stem cuttings root well; leaves are less reliable — let cuttings callus first.",
     "bloom": "Clusters of orange, bell-shaped flowers on tall stalks on mature plants.",
     "troubles": "Leaf drop from overwatering or low light; mealybugs tucked in the fuzz.",
-    "toxicity": "Toxic — Cotyledon contain cardiac glycosides. Keep it away from cats, dogs, and children."
+    "toxicity": "Toxic — Cotyledon contain cardiac glycosides (bufadienolides); poisonous to animals if eaten. Keep it away from cats, dogs, and children."
+  },
+  "sources": [
+    {
+      "title": "Cotyledon tomentosa subsp. tomentosa (Bear's Paw) — RHS",
+      "url": "https://www.rhs.org.uk/plants/327513/cotyledon-tomentosa-subsp-tomentosa/details",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Cotyledon tomentosa — LLIFLE Encyclopedia of Succulents",
+      "url": "https://www.llifle.com/Encyclopedia/SUCCULENTS/Family/Crassulaceae/27065/Cotyledon_tomentosa",
+      "pub": "LLIFLE"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1, 2],
+    "dormancy": [2],
+    "feeding": [2],
+    "potting": [2],
+    "propagation": [2],
+    "bloom": [1, 2],
+    "troubles": [2],
+    "toxicity": [2]
   },
   "shots": [
     {

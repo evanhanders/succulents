@@ -34,7 +34,37 @@
     "propagation": "Very easy — stem cuttings, and the little leaf-margin plantlets that root wherever they land.",
     "bloom": "Nodding bell-shaped orange-red flowers on tall stalks in winter to spring.",
     "troubles": "Overwatering rot and legginess in low light; mealybugs and aphids on new growth.",
-    "toxicity": "Toxic — Kalanchoe contain cardiac glycosides that are dangerous to cats and dogs. Keep it out of reach."
+    "toxicity": "Toxic — Kalanchoe contain cardiac glycosides (bufadienolides) that are dangerous to cats and dogs. Keep it out of reach."
+  },
+  "sources": [
+    {
+      "title": "Kalanchoe — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/kalanchoe/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Kalanchoe fedtschenkoi — LLIFLE Encyclopedia of Succulents",
+      "url": "https://www.llifle.com/Encyclopedia/SUCCULENTS/Family/Crassulaceae/29091/Kalanchoe_fedtschenkoi",
+      "pub": "LLIFLE"
+    },
+    {
+      "title": "Kalanchoe (Kalanchoe spp.) — ASPCA Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/kalanchoe",
+      "pub": "ASPCA"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1, 2],
+    "dormancy": [2],
+    "feeding": [1],
+    "potting": [2],
+    "propagation": [1, 2],
+    "bloom": [2],
+    "troubles": [1, 2],
+    "toxicity": [1, 3]
   },
   "shots": [
     {

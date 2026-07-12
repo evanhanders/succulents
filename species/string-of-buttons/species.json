@@ -36,9 +36,21 @@
     "toxicity": "Like other Crassula, mildly toxic to cats and dogs if eaten; the sap can also irritate skin, so handle cuttings with a little care."
   },
   "sources": [
-    { "title": "Crassula perforata (Necklace Vine, String of Buttons) — NC State Extension Gardener Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/crassula-perforata/", "pub": "NC State Extension" },
-    { "title": "Crassula perforata (String of Buttons) — RHS", "url": "https://www.rhs.org.uk/plants/4744/crassula-perforata/details", "pub": "Royal Horticultural Society" },
-    { "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant", "pub": "ASPCA" }
+    {
+      "title": "Crassula perforata (Necklace Vine, String of Buttons) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/crassula-perforata/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Crassula perforata (String of Buttons) — RHS",
+      "url": "https://www.rhs.org.uk/plants/4744/crassula-perforata/details",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Jade Plant (Crassula) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/jade-plant",
+      "pub": "ASPCA"
+    }
   ],
   "care_refs": {
     "light": [1, 2],

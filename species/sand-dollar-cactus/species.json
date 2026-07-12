@@ -36,8 +36,16 @@
     "toxicity": "Non-toxic and, being spineless, unusually safe to handle for a cactus."
   },
   "sources": [
-    { "title": "Astrophytum (Star Cactus) — NC State Extension Gardener Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/astrophytum/", "pub": "NC State Extension" },
-    { "title": "Astrophytum asterias — Encyclopedia of Cacti", "url": "https://www.llifle.com/Encyclopedia/CACTI/Family/Cactaceae/1464/Astrophytum_asterias", "pub": "LLIFLE" }
+    {
+      "title": "Astrophytum (Star Cactus) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/astrophytum/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Astrophytum asterias — Encyclopedia of Cacti",
+      "url": "https://www.llifle.com/Encyclopedia/CACTI/Family/Cactaceae/1464/Astrophytum_asterias",
+      "pub": "LLIFLE"
+    }
   ],
   "care_refs": {
     "light": [1, 2],

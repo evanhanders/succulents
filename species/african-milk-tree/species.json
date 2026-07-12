@@ -37,9 +37,21 @@
     "toxicity": "The milky latex is a genuine irritant — it raises a rash and blisters on skin and causes severe eye irritation on contact, and if eaten brings on gastroenteritis, vomiting, and worse. Like the rest of its genus it's toxic. Keep away from pets and children and always handle with gloves."
   },
   "sources": [
-    { "title": "Euphorbia trigona (African Milk Tree) — NC State Extension Gardener Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/euphorbia-trigona/", "pub": "NC State Extension" },
-    { "title": "Pencil Cactus (Euphorbia tirucalli, genus relative) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pencil-cactus", "pub": "ASPCA" },
-    { "title": "Euphorbia trigona (African Milk Tree) — Plant Finder", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280109", "pub": "Missouri Botanical Garden" }
+    {
+      "title": "Euphorbia trigona (African Milk Tree) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia-trigona/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Pencil Cactus (Euphorbia tirucalli, genus relative) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pencil-cactus",
+      "pub": "ASPCA"
+    },
+    {
+      "title": "Euphorbia trigona (African Milk Tree) — Plant Finder",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=280109",
+      "pub": "Missouri Botanical Garden"
+    }
   ],
   "care_refs": {
     "light": [1, 3],

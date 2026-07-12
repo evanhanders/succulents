@@ -24,12 +24,47 @@
     "soil": "A gritty, fast-draining mix keeps the roots healthy and the rosette compact.",
     "temperature": "Room temperature is ideal; protect from frost — bring it in before the first hard cold.",
     "dormancy": "A warm-season grower that slows in deep winter; keep it bright and on the dry side then.",
-    "feeding": "A dilute feed once or twice through spring and summer.",
+    "feeding": "A quarter- to half-strength feed only during active growth in spring and summer; skip it entirely while the plant is resting over winter.",
     "potting": "Repot every year or two in a pot with drainage; a snug pot and gritty mix keep it stress-coloured.",
     "propagation": "Leaves laid on dry mix, offsets pulled from the base, or beheading a stretched rosette and re-rooting the top.",
     "bloom": "Bell-shaped flowers on an arching one-sided stalk in the warmer months.",
     "troubles": "Rot from an overwatered crown, stretching (etiolation) in low light, and mealybugs tucked between leaves.",
-    "toxicity": "Non-toxic and safe around pets."
+    "toxicity": "Non-toxic to cats, dogs, and horses — the ASPCA lists echeverias (e.g. Echeveria glauca) as non-toxic, though no plant is meant to be a snack."
+  },
+  "sources": [
+    {
+      "title": "Echeveria — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/echeveria/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Echeveria — RHS Plant Guide",
+      "url": "https://www.rhs.org.uk/plants/echeveria",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Blue Echeveria (Echeveria glauca) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/blue-echeveria",
+      "pub": "ASPCA"
+    },
+    {
+      "title": "Cacti and Succulents — Gardening Help Factsheet",
+      "url": "https://www.missouribotanicalgarden.org/Portals/0/Gardening/Gardening%20Help/Factsheets/Cactus%20and%20Succulents10.pdf",
+      "pub": "Missouri Botanical Garden"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1, 2],
+    "dormancy": [1, 2],
+    "feeding": [4],
+    "potting": [2, 4],
+    "propagation": [1, 2],
+    "bloom": [1],
+    "troubles": [1, 2],
+    "toxicity": [1, 3]
   },
   "shots": [
     {

@@ -33,7 +33,32 @@
     "propagation": "Pull the 'chick' offsets, which are usually already rooting, and pot them up.",
     "bloom": "The mother rosette is monocarpic — it sends up a starry pink flower spike, then dies, replaced by its ring of chicks.",
     "troubles": "Rot from heat-and-wet or water sitting in the crown; otherwise very tough.",
-    "toxicity": "Non-toxic and safe around cats and dogs."
+    "toxicity": "Not considered toxic to cats or dogs — a genuinely pet-safe houseleek. The only note of caution is that the leaf sap can mildly irritate skin in some people, but it's no danger to pets."
+  },
+  "sources": [
+    {
+      "title": "Sempervivum (Hens and Chicks / Houseleek) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/sempervivum/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Sempervivum (Houseleeks) — RHS",
+      "url": "https://www.rhs.org.uk/plants/sempervivum",
+      "pub": "Royal Horticultural Society"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1, 2],
+    "dormancy": [1],
+    "feeding": [1, 2],
+    "potting": [1],
+    "propagation": [1],
+    "bloom": [1],
+    "troubles": [1],
+    "toxicity": [1]
   },
   "shots": [
     {

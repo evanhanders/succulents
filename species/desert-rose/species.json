@@ -35,9 +35,21 @@
     "toxicity": "The milky sap contains cardiac glycosides and is toxic if ingested and irritating to skin and eyes — every part is poisonous, so keep it away from pets and kids, wear gloves when pruning, and wash up afterward."
   },
   "sources": [
-    { "title": "Adenium obesum (Desert Rose) — NC State Extension Gardener Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/adenium-obesum/", "pub": "NC State Extension" },
-    { "title": "Desert Rose (Adenium obesum) — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/desert-rose", "pub": "ASPCA" },
-    { "title": "Adenium obesum (Desert Rose) — Plant Finder", "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=276116", "pub": "Missouri Botanical Garden" }
+    {
+      "title": "Adenium obesum (Desert Rose) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/adenium-obesum/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Desert Rose (Adenium obesum) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/desert-rose",
+      "pub": "ASPCA"
+    },
+    {
+      "title": "Adenium obesum (Desert Rose) — Plant Finder",
+      "url": "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=276116",
+      "pub": "Missouri Botanical Garden"
+    }
   ],
   "care_refs": {
     "light": [1, 3],
