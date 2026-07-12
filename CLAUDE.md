@@ -105,12 +105,50 @@ real file (`species/zebra-haworthia/species.json` is the reference). Fields:
   absent key, so fill in as many as apply. Keys, in order:
   `light, water, soil, temperature, dormancy, feeding, potting, propagation, bloom, troubles`.
   Plus **`toxicity`** — rendered separately under the "Toxicity & pets" banner (not in the care
-  grid). Keep each value a short, practical paragraph of *how the owner actually grows it*.
-  (Care prose here is uncited — this is a personal collection log, not a referenced field guide.)
+  grid). Keep each value a short, practical paragraph of *how the owner actually grows it* — the
+  warm first-person voice is the house style. **Every care claim is source-backed**, though: the
+  prose is written in the owner's voice but each factual assertion must be supported by a cited
+  reference (see `sources` / `care_refs` below and the *Care sources* section). `species/zebra-haworthia/species.json`
+  is the reference for a fully-sourced record.
+- **`sources`** *(array, optional)* — the species' numbered bibliography, shown as an ordered
+  "Sources" list at the foot of the care sheet. Each entry:
+  `{ "title": "<page title incl. botanical name>", "url": "https://…", "pub": "<short publisher>" }`.
+  Array order is the citation number (1-based); `pub` is an optional short label (e.g. "NC State
+  Extension"). Cite only publishers on the *Care sources* allow-list, and only URLs you've
+  confirmed load and discuss the plant.
+- **`care_refs`** *(object, optional)* — maps each `care` field (including `toxicity`) to the
+  source(s) it derives from: `{ "light": [1], "water": [1,2], "toxicity": [3] }`. Values are arrays
+  of 1-based indices into this record's own `sources`. `species.js` renders these as superscript
+  markers (Light¹²) that anchor to the Sources list; out-of-range indices are skipped. Only map a
+  source to a field it genuinely supports; every non-empty care field should carry ≥1 ref.
 - **`shots`** *(array, optional)* — the photo reel. Each entry:
   `{ "full": "images/x.jpg", "thumb": "images/x-t.jpg", "cap": "short caption", "date": "2026-06" }`.
   `full` is required; `thumb` is optional (falls back to `full`); `cap`/`date` optional. Paths are
   relative to the record folder. An empty `shots: []` renders a "Photo coming soon" placeholder.
+
+## Care sources (the citation allow-list)
+
+Photos are the owner's own, but **care claims are not** — they're distilled from horticultural
+references and must link back to them. When writing or revising a species' `care`, cite only these
+authoritative publishers (this is a closed allow-list; don't cite hobby blogs):
+
+- **NC State Extension Gardener Plant Toolbox** — `plants.ces.ncsu.edu` — the primary per-species
+  source (light, water, soil, temperature, propagation, pests, toxicity rating).
+- **Royal Horticultural Society** — `rhs.org.uk` — genus/species care (watering, dormancy, feeding,
+  repotting).
+- **Missouri Botanical Garden Plant Finder** — `missouribotanicalgarden.org`.
+- **ASPCA Toxic & Non-Toxic Plants** — `aspca.org` — the source of record for the **toxicity**
+  claim. Cite the species' own entry, or the genus/known relative's entry phrased at genus level.
+- **University extensions** — UF/IFAS, Wisconsin Horticulture, Clemson HGIC, Utah State, Arizona,
+  UMN.
+- **LLIFLE Encyclopedia of Cacti/Succulents** — `llifle.com` — specialist per-species detail,
+  especially for cacti and obscure species the extensions don't cover.
+- **Cactus & Succulent Society of America** — `cactusandsucculentsociety.org`.
+
+Rules of thumb: **fetch every URL before citing it** (confirm it loads and actually discusses the
+plant — no invented links); prefer the first four; 2–4 sources per species is typical; only map a
+`care_refs` field to a source that supports that specific claim. (World of Succulents and similar
+blogs are intentionally excluded — many block fetching and aren't authoritative.)
 
 ## `entry.json` schema (journal)
 
@@ -155,7 +193,10 @@ Add a form → add one CSS rule. Keep forms to 1–2 per species so cards stay c
    full = im.copy(); full.thumbnail((1600,1600), Image.LANCZOS); full.save("name.jpg", quality=86, optimize=True)
    th   = im.copy(); th.thumbnail((820,820),   Image.LANCZOS); th.save("name-t.jpg", quality=84, optimize=True)
    ```
-4. Write `species/<slug>/species.json` (schema above). Give it the next free `dex` number.
+4. Write `species/<slug>/species.json` (schema above). Give it the next free `dex` number. Fill
+   `care` in the owner's voice, then add `sources` + `care_refs` so every care claim is cited to a
+   publisher on the *Care sources* allow-list (fetch each URL first; always include an ASPCA-backed
+   toxicity source).
 5. Add `"<slug>"` to the `species` array in `species/manifest.json`.
 6. Reload `dex.html` — the card appears; open it to check the detail sheet.
 7. Commit and **merge to `main`** (see *Shipping* below) — that's the deploy branch.
@@ -205,8 +246,10 @@ The pages `fetch()` JSON, so `file://` won't work — always serve over HTTP:
   standalone care sheet is **`species.html?s=<slug>`** (the query key is `s`, not `slug`).
 - Worth a headless-browser pass on a big change (new species + entry): confirm `dex.html`
   shows the expected species count, each new `species.html?s=<slug>` renders its badges + care
-  grid, the toxicity banner flips to the warning style for toxic plants, and `journal.html`
-  loads every image with the species chips resolving to the right dex numbers.
+  grid, the toxicity banner flips to the warning style for toxic plants, the care-field superscript
+  markers anchor to the Sources list (and every `care_refs` index is in range of that record's
+  `sources`), and `journal.html` loads every image with the species chips resolving to the right
+  dex numbers.
 - Gotcha: the stock single-threaded `http.server` can reset connections when a page pulls many
   images at once under a headless browser — use Python's `ThreadingHTTPServer` for that test.
 
@@ -227,7 +270,9 @@ Do the work on a feature branch, then get it onto `main`:
 
 ## Conventions recap
 
-- Photos are always the owner's own — no attribution/licensing fields anywhere.
+- Photos are always the owner's own — no attribution/licensing fields anywhere. **Care claims are
+  the opposite**: written in the owner's voice but each cited to an allow-list reference via
+  `sources` + `care_refs` (see *Care sources*).
 - Add data, not code: a new species/entry is a folder + JSON + a manifest line.
 - `class` = Cactus|Succulent (grouping + first badge); `forms` = the growth-form badges.
 - Keep short card fields (`light`, `hardiness`, `toxicity`, `growth_season`) inside the

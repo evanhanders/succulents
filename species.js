@@ -20,6 +20,18 @@ const CARE_FIELDS = [
   ['propagation','Propagation'], ['bloom','Flowering'], ['troubles','Common problems']
 ];
 
+/* Superscript citation markers for a care field. `care_refs[field]` is an array of 1-based
+   indices into `p.sources`; render each as an in-page anchor link to that Sources list item.
+   Out-of-range indices are skipped so a stray number never links nowhere. */
+function refsSup(p, field){
+  const refs = (p.care_refs && p.care_refs[field]) || [];
+  const total = (p.sources || []).length;
+  const links = refs.filter(function(n){ return n >= 1 && n <= total; }).map(function(n){
+    return '<a class="ref" href="#src-' + n + '" aria-label="Source ' + n + '">' + n + '</a>';
+  });
+  return links.length ? '<sup class="refs">' + links.join('') + '</sup>' : '';
+}
+
 function glanceHTML(p){
   const rows = [
     ['Light', p.light], ['Water', p.water], ['Soil', p.soil],
@@ -32,7 +44,7 @@ function glanceHTML(p){
 function careHTML(p){
   const care = p.care || {};
   const items = CARE_FIELDS.filter(function(f){ return care[f[0]]; }).map(function(f){
-    return '<div class="care-item"><h4>' + (ICONS[f[0]] || '') + f[1] + '</h4><p>' + esc(care[f[0]]) + '</p></div>';
+    return '<div class="care-item"><h4>' + (ICONS[f[0]] || '') + f[1] + '</h4><p>' + esc(care[f[0]]) + refsSup(p, f[0]) + '</p></div>';
   }).join('');
   return items ? '<section class="sheet-section"><h3>Growing &amp; care</h3><div class="care-grid">' + items + '</div></section>' : '';
 }
@@ -45,7 +57,23 @@ function toxHTML(p){
     : '<svg class="ti" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9v4M12 17h.01M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/></svg>';
   return '<section class="sheet-section"><h3>Toxicity &amp; pets</h3>' +
     '<div class="tox-banner' + (safe ? '' : ' warn') + '">' + icon + '<span>' + esc(p.toxicity || (safe ? 'Pet-safe' : 'Keep away from pets')) + '</span></div>' +
-    (detail ? '<p style="margin:12px 0 0">' + esc(detail) + '</p>' : '') + '</section>';
+    (detail ? '<p style="margin:12px 0 0">' + esc(detail) + refsSup(p, 'toxicity') + '</p>' : '') + '</section>';
+}
+function sourcesHTML(p){
+  const src = (p.sources || []);
+  if(!src.length) return '';
+  const items = src.map(function(s, i){
+    const n = i + 1;
+    const label = esc(s.title || s.url || ('Source ' + n));
+    const pub = s.pub ? ' <span class="src-pub">' + esc(s.pub) + '</span>' : '';
+    const body = s.url
+      ? '<a href="' + esc(s.url) + '" target="_blank" rel="noopener noreferrer">' + label + '</a>'
+      : label;
+    return '<li id="src-' + n + '">' + body + pub + '</li>';
+  }).join('');
+  return '<section class="sheet-section"><h3>Sources</h3>' +
+    '<p class="src-note">Care claims above are keyed by number to these references.</p>' +
+    '<ol class="sources">' + items + '</ol></section>';
 }
 function photosHTML(p){
   const shots = (p.shots || []);
@@ -74,7 +102,7 @@ function renderDetail(p){
         '</div>' +
       '</div>' +
       '<section class="sheet-section"><h3>At a glance</h3>' + glanceHTML(p) + '</section>' +
-      careHTML(p) + toxHTML(p) + photosHTML(p) +
+      careHTML(p) + toxHTML(p) + photosHTML(p) + sourcesHTML(p) +
       '<section class="sheet-section" style="text-align:center"><a class="backlink" href="dex.html">‹ Back to the dex</a></section>' +
     '</article>';
   wireReels(detail); wireLightbox(detail);

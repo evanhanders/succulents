@@ -250,6 +250,18 @@ img{ max-width:100%; }
 .tox-banner.warn{ background:color-mix(in srgb, var(--spine) 18%, var(--panel)); border-color:var(--spine); }
 .tox-banner .ti{ width:22px; height:22px; flex:0 0 auto; }
 .credits{ list-style:none; padding:0; margin:0; display:grid; gap:6px; color:var(--ink-soft); font-size:.88rem; }
+/* citation markers on care claims + the per-species Sources list */
+.refs{ font-size:.62em; line-height:0; white-space:nowrap; margin-left:2px; }
+.refs .ref{ color:var(--cactus); font-weight:700; text-decoration:none; padding:0 1px; }
+.refs .ref:hover{ text-decoration:underline; }
+.refs .ref + .ref{ margin-left:2px; }
+.src-note{ margin:0 0 12px; color:var(--ink-soft); font-size:.86rem; }
+.sources{ margin:0; padding-left:1.4em; display:grid; gap:8px; font-size:.9rem; }
+.sources li{ color:var(--ink); }
+.sources li a{ color:var(--ink); }
+.sources li:target{ background:color-mix(in srgb, var(--cactus) 14%, transparent); border-radius:4px; }
+.sources .src-pub{ color:var(--ink-soft); font-size:.85em; }
+.sources .src-pub::before{ content:" · "; }
 .related{ margin-top:18px; }
 
 /* ---------- journal ---------- */

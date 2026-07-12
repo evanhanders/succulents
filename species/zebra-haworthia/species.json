@@ -23,17 +23,35 @@
   "toxicity": "Pet-safe",
   "acquired": "2026-07",
   "care": {
-    "light": "Bright, indirect light is the sweet spot — an east window or filtered light. It takes gentle morning sun but scorches in harsh afternoon glare.",
-    "water": "Soak-and-dry: a good drink, then wait until fully dry and the lower leaves give slightly. Less often in the low-light months.",
-    "soil": "A fast-draining gritty mix, roughly half mineral to half potting soil.",
-    "temperature": "Ordinary room temperatures; keep it above ~40°F and out of frost.",
-    "dormancy": "An opportunistic grower that does most of its work in spring and autumn and rests in the hottest and coldest spells — ease off water then.",
-    "feeding": "Very little — a dilute feed once or twice in the growing season.",
-    "potting": "Slow and happy snug; repot every 2–3 years, mainly to divide the clump of offsets.",
-    "propagation": "Easiest by twisting off rooted offsets from around the base.",
-    "bloom": "A wiry stalk of small tubular off-white flowers well above the rosette; it doesn't die after flowering.",
-    "troubles": "Overwatering rot is the only real danger; watch for mealybugs in the leaf axils.",
-    "toxicity": "Non-toxic and safe around cats and dogs."
+    "light": "Bright, indirect light is the sweet spot — an east window or filtered light, which also brings out the best color and banding in the leaves. It takes gentle morning sun but scorches in harsh afternoon glare.",
+    "water": "Soak-and-dry: a good drink, then let the soil dry out fully before the next — it's genuinely drought-tolerant and rots if left damp. Ease right off through winter, when it's resting.",
+    "soil": "A fast-draining cactus/succulent mix — roughly one part coarse sand or perlite to two parts potting soil. Standing wet is what kills it.",
+    "temperature": "Ordinary room warmth, around 60–80°F. It shrugs off brief cool spells but isn't frost-hardy — keep it above ~50°F and out of frost (hardy outdoors only in Zones 9–11).",
+    "dormancy": "Does most of its growing in the milder spring and autumn, with a rest in the hottest weeks; give it a cooler, drier winter too or it puts out thin, weak growth that spoils the rosette's shape.",
+    "feeding": "Very little — a dilute feed only during active growth, and skip it while the plant is resting. Don't feed a freshly potted one for its first year.",
+    "potting": "Slow and happy snug; repot every 2–3 years into fresh gritty mix in a pot with good drainage, mainly to divide the clump of offsets.",
+    "propagation": "Easiest by twisting off rooted offsets from around the base; leaf cuttings work too, but it rarely comes from seed.",
+    "bloom": "A wiry stalk lifts small tubular pale-pink flowers in loose clusters well above the rosette in late spring to early summer; it doesn't die after flowering.",
+    "troubles": "Overwatering rot is the main danger — leaf spot and fungal trouble follow soggy soil or water left sitting in the rosette. Watch for mealybugs in the leaf axils and scale.",
+    "toxicity": "Non-toxic and safe around cats and dogs (ASPCA-listed) — though no plant is meant to be a snack."
+  },
+  "sources": [
+    { "title": "Haworthiopsis attenuata (Zebra Haworthia) — NC State Extension Gardener Plant Toolbox", "url": "https://plants.ces.ncsu.edu/plants/haworthiopsis-attenuata/", "pub": "NC State Extension" },
+    { "title": "Haworthia — Plant Guide", "url": "https://www.rhs.org.uk/plants/haworthia", "pub": "Royal Horticultural Society" },
+    { "title": "Zebra Haworthia — Toxic and Non-Toxic Plants", "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/zebra-haworthia", "pub": "ASPCA" }
+  ],
+  "care_refs": {
+    "light": [1],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1, 2],
+    "dormancy": [2],
+    "feeding": [2],
+    "potting": [2],
+    "propagation": [1],
+    "bloom": [1],
+    "troubles": [1],
+    "toxicity": [1, 3]
   },
   "shots": [
     {
