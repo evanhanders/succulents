@@ -1,0 +1,77 @@
+{
+  "dex": 34,
+  "common": "String of Pearls",
+  "botanical": "Curio rowleyanus",
+  "genus": "Curio",
+  "family": "Asteraceae",
+  "aka": [
+    "Senecio rowleyanus",
+    "String of Beads",
+    "Rosary Vine",
+    "Necklace Plant"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Trailing"
+  ],
+  "blurb": "Fat little pea-sized beads strung along trailing threads, each with a translucent 'window' slit to let light in. The classic hanging succulent — and the plumper, rounder cousin of my String of Tears.",
+  "growth_season": "Ever",
+  "size": "Trailing strands to ~2–3 ft",
+  "light": "Bright indirect to gentle sun",
+  "water": "Soak & dry",
+  "soil": "Gritty cactus mix",
+  "hardiness": "Tender · ~30°F min (Zones 9b–11)",
+  "toxicity": "Toxic to cats & dogs",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Bright, indirect light with a little gentle morning sun keeps the beads plump and tightly strung; harsh midday sun scorches them and deep shade leaves the strands sparse and stretched.",
+    "water": "Soak-and-dry — the round beads store their own water, so I wait until they start to look a touch soft, then water and let it dry right out. Both extremes are bad: staying wet rots the shallow roots, bone-dry shrivels the pearls.",
+    "soil": "A fast-draining cactus mix, or potting soil cut with plenty of sand or perlite and grit. A wide, shallow pot suits the shallow roots.",
+    "temperature": "Happiest warm (70–80°F) through summer and a bit cooler (50–60°F) in winter; keep it above freezing.",
+    "dormancy": "Active in the warmer months (spring through early autumn) and quieter in winter — I water sparingly, if at all, once the days shorten.",
+    "feeding": "Modest appetite — a half-strength general-purpose liquid feed about once a month through the growing season is plenty.",
+    "potting": "Lovely spilling from a raised shelf or hanging pot to show off the strands. The roots are shallow, so I only repot when it's truly crowded, always into something free-draining.",
+    "propagation": "Very easy — take a 3–5 in stem cutting or lay a strand on the mix so the nodes touch soil; it roots in about a month. This one's my second try, replacing the string I lost to overwatering.",
+    "bloom": "Small white, daisy-like flowers on short stalks in summer, with a surprising cinnamon scent — though it rarely blooms indoors.",
+    "troubles": "Overwatering and the rot that follows are by far the main risk; the water-storing beads mean it forgives a missed watering far more than a soggy pot.",
+    "toxicity": "Toxic to cats and dogs (and horses) if eaten — the sap carries pyrrolizidine alkaloids and can irritate skin too, so I keep it up high and out of reach."
+  },
+  "sources": [
+    {
+      "title": "Curio rowleyanus (String of Pearls, String of Beads) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/curio-rowleyanus/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "How to grow string of beads (Curio rowleyanus) — RHS Growing Guide",
+      "url": "https://www.rhs.org.uk/plants/string-of-beads/how-to-grow-string-of-beads",
+      "pub": "RHS"
+    },
+    {
+      "title": "Groundsel (Senecio spp.) — ASPCA Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/groundsel",
+      "pub": "ASPCA"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1],
+    "dormancy": [2],
+    "feeding": [2],
+    "potting": [1, 2],
+    "propagation": [1, 2],
+    "bloom": [1],
+    "troubles": [1],
+    "toxicity": [1, 3]
+  },
+  "shots": [
+    {
+      "full": "images/string-of-pearls.jpg",
+      "thumb": "images/string-of-pearls-t.jpg",
+      "cap": "String of Pearls — the newcomer, take two.",
+      "date": "2026-07"
+    }
+  ]
+}
