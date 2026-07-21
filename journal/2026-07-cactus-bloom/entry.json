@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-15",
+  "title": "Cactus bloom!",
+  "tags": ["bloom", "cactus", "new plant"],
+  "species": ["sand-dollar-cactus"],
+  "body": [
+    "Surprise! This little guy — which Claude identified as a Sand Dollar Cactus, and which looks like a Super Kabuto (or something close) to me — is blooming. It's only been home a few days, so this was a huge treat.",
+    "It's actually the first time one of my cactuses has bloomed. I've kept succulents before, but never had a cactus flower for me. The bud came up fuzzy and green out of the woolly crown in the morning, and by the afternoon it had opened into this big pale-yellow flower with a red-orange throat. Here's hoping I can nurture it well enough to do it again."
+  ],
+  "shots": [
+    { "full": "images/bloom.jpg", "thumb": "images/bloom-t.jpg", "cap": "Open bloom — pale-yellow petals, red-orange throat." },
+    { "full": "images/bud.jpg", "thumb": "images/bud-t.jpg", "cap": "The fuzzy green bud earlier that day, poking out of the woolly crown." }
+  ]
+}

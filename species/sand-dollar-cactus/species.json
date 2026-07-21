@@ -66,6 +66,18 @@
       "thumb": "images/sand-dollar-cactus-t.jpg",
       "cap": "Sand Dollar Cactus",
       "date": "2026-07"
+    },
+    {
+      "full": "images/sand-dollar-bud.jpg",
+      "thumb": "images/sand-dollar-bud-t.jpg",
+      "cap": "A fuzzy green bud rising from the woolly crown.",
+      "date": "2026-07"
+    },
+    {
+      "full": "images/sand-dollar-bloom.jpg",
+      "thumb": "images/sand-dollar-bloom-t.jpg",
+      "cap": "First bloom — pale-yellow flower with a red-orange throat, days after coming home.",
+      "date": "2026-07"
     }
   ]
 }

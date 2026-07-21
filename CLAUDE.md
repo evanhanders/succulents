@@ -217,6 +217,34 @@ When new photos of a plant already in the dex arrive (a bloom, a repot, size pro
 The same append pattern adds photos to a **journal entry**: drop the processed files in that
 entry's `images/` folder and append shot objects to its `shots` array.
 
+## Keep the dex current: always fold new info back into the species record
+
+**Whenever we learn something new about a plant that's already in the dex, update its species
+record in the same change — don't let the dex go stale.** The journal captures the moment; the
+dex is the living reference, so anything the moment teaches us belongs there too. This is a
+standing rule, not an optional extra: if a change adds knowledge about a dex species, that
+species' `species.json` gets updated alongside it.
+
+New info shows up in lots of forms — treat each as a trigger to revise the record:
+
+- **New photos** (a bloom, a repot, size progression) → append them to the species' `shots`
+  (see the workflow just above). A journal entry about a dex plant almost always means at least
+  one new dex shot.
+- **A confirmed or corrected ID** → fix `botanical` / `common` / `genus` / `family` / `aka`, and
+  **drop the `provisional` key** once the ID is no longer a guess (or set it if new doubt appears).
+- **Observed behavior** — it bloomed, when and what the flower looked like; how fast it grows; how
+  it took a repot or a light move; a pest or rot episode → work it into the relevant `care` field
+  (`bloom`, `troubles`, `potting`, …) or `blurb`/`size`, keeping the owner's voice. Care *claims*
+  still need a citation from the *Care sources* allow-list, but **first-hand observations of the
+  owner's own plant are self-evidencing** — describe what actually happened without inventing a
+  source for it.
+- **A new acquisition date, size, or growth-season correction** → update `acquired`, `size`,
+  `growth_season`, and the short card fields.
+
+Then ship the species change to `main` with the rest of the work (see *Shipping*). Rule of thumb:
+if you're writing a journal entry that names a dex species, ask "what did this teach me about that
+plant?" and put the answer in its dex record before you finish.
+
 ## Workflow: adding a journal entry
 
 1. `slug` like `2026-07-first-repotting` (date-prefixed keeps them tidy on disk).
@@ -274,6 +302,9 @@ Do the work on a feature branch, then get it onto `main`:
   the opposite**: written in the owner's voice but each cited to an allow-list reference via
   `sources` + `care_refs` (see *Care sources*).
 - Add data, not code: a new species/entry is a folder + JSON + a manifest line.
+- **Keep the dex current:** whenever a change teaches us something new about a plant already in the
+  dex (photos, a confirmed/corrected ID, a bloom, growth, a repot outcome), fold it into that
+  species' `species.json` in the same change — see *Keep the dex current* above.
 - `class` = Cactus|Succulent (grouping + first badge); `forms` = the growth-form badges.
 - Keep short card fields (`light`, `hardiness`, `toxicity`, `growth_season`) inside the
   vocabularies the filters bucket on (see the predicates in `reel.js`), or add a new bucket there.
