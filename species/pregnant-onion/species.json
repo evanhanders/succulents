@@ -1,0 +1,82 @@
+{
+  "dex": 37,
+  "common": "Pregnant Onion",
+  "botanical": "Ornithogalum longibracteatum",
+  "genus": "Ornithogalum",
+  "family": "Asparagaceae",
+  "aka": [
+    "False Sea Onion",
+    "Sea Onion",
+    "German Onion",
+    "Ornithogalum caudatum",
+    "Albuca bracteata"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Ball",
+    "Clumping"
+  ],
+  "blurb": "A big apple-green bulb that lounges half out of the soil and quietly stuffs baby bulblets under its papery skin — like a pregnant onion, hence the name. Strappy arching leaves and, in the warm months, a tall wand of green-striped white stars.",
+  "growth_season": "Summer",
+  "size": "Bulb 2–4 in across; strappy leaves to ~2 ft; flower spike 18–36 in tall",
+  "light": "Bright indirect to full sun (avoid harsh dry midday)",
+  "water": "Soak & dry",
+  "soil": "Gritty, well-drained mix",
+  "hardiness": "Tender · to about 23°F (Zone 8b–10)",
+  "toxicity": "Toxic to pets & people",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Mine sits in the brightest window I've got. It's happy in bright indirect light and takes some direct sun, but a hot, dry, blasting exposure will scorch the leaves, so I give it gentle direct sun — morning or filtered — rather than baking afternoon glare, or a full-sun-to-partial spot outdoors in the mild season.",
+    "water": "I water it deeply, then let the mix dry out most of the way before the next drink. It wants steady moisture through the active growing months but hates sitting wet, so I ease right off as growth slows and never let the pot stay soggy.",
+    "soil": "A fast-draining, gritty mix is the whole game. I use a cactus/succulent soil cut with a little peat so it holds a touch of moisture but still drains freely, and always a pot that can dry out.",
+    "temperature": "It's a warm-climate bulb, not truly cold-hardy. It'll shrug off a brief dip to around 23°F, but I don't push my luck: mine lives frost-free indoors and I bring it in well before any hard cold.",
+    "dormancy": "Through winter I let it rest, keeping it cool and much drier, and it eases off active growth until spring. It dislikes heavy moisture during that dormant stretch, so I hold back water until it wakes up.",
+    "potting": "The bulb is meant to sit partly above the soil, so I seat it high and don't bury it. A snug, well-draining pot is fine; when it fills the pot with offsets I lift it in spring, tease off the bulblets, and replant the mother a little higher.",
+    "propagation": "This is the fun part, and the reason for the name. It throws off masses of little bulblets under the papery skin of the mother bulb; they swell, ripen, and eventually drop off ready to grow, so I just pot up the fallen ones. It also multiplies by division and offsets and sets copious easy seed.",
+    "bloom": "In the warm season it sends up a tall raceme — often a foot and a half to three feet — of small star-shaped white flowers, each striped green down the center, opening over a long window from summer into early fall. They're long-lasting and even work as cut stems.",
+    "troubles": "Overwatering and a heavy, wet mix are the real killers, so err dry. A hot, dry, over-bright spot scorches the foliage. And handle it with a little care: the sap can irritate sensitive skin, so I wash up after dividing bulbs.",
+    "toxicity": "All parts are poisonous. Like its Ornithogalum kin (star-of-bethlehem), it carries toxic saponins; eating the bulb or flowers can cause stomach upset, and the sap can cause dermatitis in sensitive people. It's poisonous to grazing livestock too. I keep the plant — and especially the shed bulblets — away from pets and small children."
+  },
+  "sources": [
+    {
+      "title": "Ornithogalum umbellatum (Star of Bethlehem, genus relative) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/ornithogalum-umbellatum/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Ornithogalum (Sea Onion, Star of Bethlehem) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/ornithogalum/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Ornithogalum longibracteatum (false sea onion) — RHS",
+      "url": "https://www.rhs.org.uk/plants/11939/ornithogalum-longibracteatum/details",
+      "pub": "Royal Horticultural Society"
+    },
+    {
+      "title": "Ornithogalum caudatum (Pregnant Onion / False Sea Onion) — Encyclopedia of Bulbs",
+      "url": "https://www.llifle.com/Encyclopedia/BULBS/Family/Hyacinthaceae/19751/Ornithogalum_caudatum",
+      "pub": "LLIFLE"
+    }
+  ],
+  "care_refs": {
+    "light": [2, 4],
+    "water": [1, 4],
+    "soil": [2, 4],
+    "temperature": [4],
+    "dormancy": [1, 4],
+    "potting": [1, 4],
+    "propagation": [1, 4],
+    "bloom": [2, 3, 4],
+    "troubles": [1, 4],
+    "toxicity": [1]
+  },
+  "shots": [
+    {
+      "full": "images/pregnant-onion.jpg",
+      "thumb": "images/pregnant-onion-t.jpg",
+      "cap": "The silly little onion plant (Ornithogalum caudatum), fresh from McGuckin and sitting out the garden for now.",
+      "date": "2026-07"
+    }
+  ]
+}
