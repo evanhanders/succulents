@@ -1,0 +1,77 @@
+{
+  "dex": 36,
+  "common": "Spear Head",
+  "botanical": "Senecio kleiniiformis",
+  "genus": "Senecio",
+  "family": "Asteraceae",
+  "aka": [
+    "Spearhead Senecio",
+    "Kleinia kleiniiformis",
+    "Curio kleiniiformis"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Shrub",
+    "Clumping"
+  ],
+  "blurb": "An upright blue-green oddball whose fleshy leaves flare into little three- to five-pointed spearheads on erect stems. Powder-dusted and architectural, it slowly builds into a clump that reads more sculpture than houseplant.",
+  "growth_season": "Summer",
+  "size": "Erect stems to ~2 ft; spear-shaped leaves 2–4 in long",
+  "light": "Bright indirect to full sun",
+  "water": "Soak & dry",
+  "soil": "Gritty cactus mix",
+  "hardiness": "Tender · ~23°F min (Zone 9b–10)",
+  "toxicity": "Toxic to cats & dogs",
+  "acquired": "2026-07",
+  "care": {
+    "light": "I give mine the brightest spot I've got. It colors up to that lovely pale blue in full sun in warm weather, though in the hottest, driest stretches I ease it into part shade so the leaves don't scorch. Indoors, park it right at a bright window for the strongest indirect light you can manage, or the stems stretch and flop.",
+    "water": "Straight soak-and-dry here. I let the mix dry out completely between drinks and water freely through the warm growing months, since it's a summer grower and appreciates the moisture then. Come winter I back right off to roughly one watering a month, just enough that it doesn't shrivel — soggy cold soil is the fastest way to rot it.",
+    "soil": "It wants sharp drainage above all. I use a free-draining cactus/succulent mix and it's happy anywhere from mildly acidic to slightly alkaline; it even shrugs off poorer, sandy soils. The one thing it won't forgive is a mix that stays wet.",
+    "temperature": "This is a tender plant — it prefers to stay above about 40°F and is happiest around 50–55°F. It can take a light, brief frost only if bone dry, but I don't gamble with it: anything near freezing and it comes inside. Roughly USDA Zone 9b and up outdoors.",
+    "dormancy": "It's a summer grower, so it does most of its work in the warm season and idles through winter. I keep it barely watered and on the cool-but-frost-free side over the cold months, then ramp water and feeding back up as spring warmth returns.",
+    "feeding": "Light feeding only, during active growth. I give a dilute liquid succulent fertilizer (a low-nitrogen, bloom-type formula) about once a month from spring through late summer, then stop entirely for winter.",
+    "potting": "I repot only when roots start poking out the drainage holes, moving it into fresh, sandy, well-draining cactus mix. Doing it as the growing season gets going gives it time to settle before it rests.",
+    "propagation": "Wonderfully easy from stem cuttings — I take a cutting in late spring or summer, let the cut end callus and dry for a week or two, then push it into gritty mix and it roots on its own. Division and seed work too, but cuttings are the no-fuss route.",
+    "bloom": "In late summer into early fall it throws up tall, wiry flower stalks well above the foliage, topped with clusters of tiny pom-pom capitula in pale yellow to whitish. They're more curiosity than showpiece — I mostly grow it for the foliage.",
+    "troubles": "Overwatering is the only real enemy — let it sit in wet, cold soil and it rots. I keep drainage sharp and the pot on the dry side, especially in winter, and it stays trouble-free. Handle with a little care, too: the sap can irritate skin.",
+    "toxicity": "Not pet-safe. Like other Senecio it's toxic to cats, dogs, and horses — the ASPCA lists the genus (as \"groundsel\") for its pyrrolizidine alkaloids, which damage the liver, and the foliage can irritate skin as well. I keep it up out of reach of curious pets."
+  },
+  "sources": [
+    {
+      "title": "Senecio kleiniiformis (Spear Head) — Encyclopedia of Succulents",
+      "url": "https://www.llifle.com/Encyclopedia/SUCCULENTS/Family/Asteraceae/29618/Senecio_kleiniiformis",
+      "pub": "LLIFLE"
+    },
+    {
+      "title": "Senecio (Dusty Miller, Ragwort, Groundsel) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/senecio/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Groundsel (Senecio species) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/groundsel",
+      "pub": "ASPCA"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1, 2],
+    "dormancy": [1],
+    "feeding": [1],
+    "potting": [1],
+    "propagation": [1, 2],
+    "bloom": [1],
+    "troubles": [1, 2],
+    "toxicity": [2, 3]
+  },
+  "shots": [
+    {
+      "full": "images/spear-head.jpg",
+      "thumb": "images/spear-head-t.jpg",
+      "cap": "The other McGuckin pickup — a spear-head Senecio, all blue-green arrowhead leaves.",
+      "date": "2026-07"
+    }
+  ]
+}

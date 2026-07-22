@@ -1,0 +1,77 @@
+{
+  "dex": 35,
+  "common": "Variegated Indian Spurge Tree",
+  "botanical": "Euphorbia neriifolia f. variegata",
+  "genus": "Euphorbia",
+  "family": "Euphorbiaceae",
+  "aka": [
+    "Indian Spurge Tree",
+    "Hindu Milk Bush",
+    "Hedge Euphorbia",
+    "Oleander Spurge",
+    "Euphorbia ligularia"
+  ],
+  "class": "Succulent",
+  "forms": [
+    "Columnar",
+    "Shrub"
+  ],
+  "blurb": "A branching, spine-shielded spurge with oleander-like paddle leaves marbled cream and green at the tips. Handsome and architectural, but it bleeds a milky latex that means business.",
+  "growth_season": "Summer",
+  "size": "Slow to 3–6 ft in a pot; a small many-branched tree in the ground",
+  "light": "Bright indirect to full sun (acclimated)",
+  "water": "Soak & dry",
+  "soil": "Gritty cactus mix",
+  "hardiness": "Tender · ~40°F min (Zone 10–11)",
+  "toxicity": "Toxic · irritant sap",
+  "acquired": "2026-07",
+  "care": {
+    "light": "Mine lives in the brightest spot I can give it — it wants full sun, but has to be walked up to it gradually over a couple of weeks each spring or the branches scorch. Because this is the variegated form, the pale cream tissue has no protective pigment and burns even faster than a plain green plant would, so I keep it just shy of the harshest midday sun and give it bright indirect light on the hottest afternoons.",
+    "water": "I water regularly through the warm growing months, roughly March to September, letting the mix dry out between soaks, and I never let water stand around the roots. In winter I keep it almost completely dry. Soak-and-dry is the whole game here — the fleshy branches store their own water, so when in doubt I wait.",
+    "soil": "It sits in a very free-draining, gritty mix — a sandy, airy medium loaded with inorganic bits like pumice and lava grit so water races through and nothing pools at the roots. Standing moisture is what kills these, so drainage is the one thing I won't compromise on.",
+    "temperature": "This is a tender tropical — I keep it above about 50°F as a comfortable minimum. Bone-dry and dormant it can shrug off a brief brush with near-freezing, but I don't test that on purpose; any real chill and it comes indoors.",
+    "dormancy": "It's a summer grower that rests in winter. Once the days shorten I pull water almost entirely and let it coast dry and cool until it wakes back up in spring — that dry winter rest is what keeps the roots healthy.",
+    "potting": "I repot into the same gritty, fast-draining mix and make sure the pot never lets water sit at the roots. The one non-negotiable ritual: gloves. Any cut or bruise weeps that milky latex, so I handle it carefully and keep the sap off my skin and well away from my eyes whenever I move or trim it.",
+    "propagation": "Easy from cuttings taken in late spring or summer, or from seed. I let a cut branch callus first (it oozes latex, so gloves again), then root it in warm conditions — it wants real warmth, around 68°F or better, to strike.",
+    "bloom": "Flowering comes in late winter to early spring, small reddish cyathia around February to March. It's a subtle show; I grow this one for the branching form and the variegated foliage more than the blooms.",
+    "troubles": "The big risk is rot from water standing at the roots, so I stay disciplined with the soak-and-dry and the gritty mix. For pests I watch for aphids, mealybugs, spider mites, and scale, and knock them back early before they settle into the branch crevices.",
+    "toxicity": "Not pet-safe. Every part carries a milky sap (latex) that's an irritant — the ASPCA lists the closely related pencil cactus (Euphorbia tirucalli) as toxic to cats, dogs, and horses, irritating to the mouth and stomach and sometimes causing vomiting. On skin the sap can cause dermatitis, and it's genuinely dangerous in the eyes, where it can damage the cornea. I keep it out of reach of pets and always wear gloves when I handle it."
+  },
+  "sources": [
+    {
+      "title": "Euphorbia neriifolia (Indian Spurge Tree) — Encyclopedia of Succulents",
+      "url": "https://www.llifle.com/Encyclopedia/SUCCULENTS/Family/Euphorbiaceae/26981/Euphorbia_neriifolia",
+      "pub": "LLIFLE"
+    },
+    {
+      "title": "Euphorbia (Spurge) — NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/euphorbia/",
+      "pub": "NC State Extension"
+    },
+    {
+      "title": "Pencil Cactus (Euphorbia tirucalli, genus relative) — Toxic and Non-Toxic Plants",
+      "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/pencil-cactus",
+      "pub": "ASPCA"
+    }
+  ],
+  "care_refs": {
+    "light": [1, 2],
+    "water": [1, 2],
+    "soil": [1, 2],
+    "temperature": [1],
+    "dormancy": [1],
+    "potting": [1, 2],
+    "propagation": [1, 2],
+    "bloom": [1],
+    "troubles": [1, 2],
+    "toxicity": [1, 2, 3]
+  },
+  "shots": [
+    {
+      "full": "images/variegated-indian-spurge-tree.jpg",
+      "thumb": "images/variegated-indian-spurge-tree-t.jpg",
+      "cap": "New from McGuckin — variegated Euphorbia neriifolia, cream-marbled paddles on a spiny stem.",
+      "date": "2026-07"
+    }
+  ]
+}
